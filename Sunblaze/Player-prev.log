@@ -19,15 +19,15 @@ clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessel
 buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
  GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_in
 t64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 26428288
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 15377632
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.096 seconds
+- Completed reload, in  0.088 seconds
 Default vsync count 1
 requesting resize 1280 x 800
 Using native desktop resolution 1280 x 800
 requesting fullscreen 1280 x 800 at 0 Hz
 Desktop is 1280 x 800 @ 60 Hz
-UnloadTime: 1.022101 ms
+UnloadTime: 1.256330 ms
 ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 [S_API] SteamAPI_Init(): Loaded '/home/deck/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 1525660
@@ -37,13 +37,13 @@ Using native desktop resolution 1280 x 800
 requesting fullscreen 1280 x 800 at 60 Hz
 Desktop is 1280 x 800 @ 60 Hz
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.166493 ms
+UnloadTime: 8.122623 ms
 
-Unloading 1231 unused Assets to reduce memory usage. Loaded Objects now: 11315.
-Total: 263.252274 ms (FindLiveObjects: 1.021211 ms CreateObjectMapping: 0.738010 ms MarkObjects: 260.574003 ms  DeleteObjects: 0.918210 ms)
+Unloading 1231 unused Assets to reduce memory usage. Loaded Objects now: 11314.
+Total: 297.946997 ms (FindLiveObjects: 0.895400 ms CreateObjectMapping: 0.536011 ms MarkObjects: 295.594065 ms  DeleteObjects: 0.920711 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 19.050077 ms
+UnloadTime: 19.808407 ms
 0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
 
 Note: Creation of internal variant of shader 'GUI/Text Shader' failed.
@@ -56,59 +56,8 @@ Note: Creation of internal variant of shader 'Hidden/InternalErrorShader' failed
 ShaderProgram is unsupported, but because jobified rendering is enabled the ShaderProgram can not be removed. 
 (Filename:  Line: 445)
 
-Shader warmup: 50 shaders 200 combinations 0.151s
+Shader warmup: 50 shaders 200 combinations 0.209s
 
-Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 58698.
-Total: 293.297624 ms (FindLiveObjects: 5.781212 ms CreateObjectMapping: 1.417140 ms MarkObjects: 285.764942 ms  DeleteObjects: 0.333140 ms)
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 56429.
+Total: 342.606362 ms (FindLiveObjects: 6.577772 ms CreateObjectMapping: 1.561421 ms MarkObjects: 333.928749 ms  DeleteObjects: 0.537670 ms)
 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 98.381506 ms
-Shader warmup: 51 shaders 222 combinations 0.168s
-
-Unloading 131 unused Assets to reduce memory usage. Loaded Objects now: 61075.
-Total: 305.913650 ms (FindLiveObjects: 4.112142 ms CreateObjectMapping: 1.265210 ms MarkObjects: 300.127527 ms  DeleteObjects: 0.407581 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 89.121601 ms
-
-Unloading 355 unused Assets to reduce memory usage. Loaded Objects now: 14133.
-Total: 370.980653 ms (FindLiveObjects: 1.428501 ms CreateObjectMapping: 0.835700 ms MarkObjects: 367.276151 ms  DeleteObjects: 1.439331 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 21.934318 ms
-Shader warmup: 52 shaders 223 combinations 0.077s
-
-Unloading 154 unused Assets to reduce memory usage. Loaded Objects now: 61115.
-Total: 353.898526 ms (FindLiveObjects: 4.879511 ms CreateObjectMapping: 1.186751 ms MarkObjects: 347.272954 ms  DeleteObjects: 0.557990 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 86.602991 ms
-
-Unloading 355 unused Assets to reduce memory usage. Loaded Objects now: 14173.
-Total: 383.446257 ms (FindLiveObjects: 1.168970 ms CreateObjectMapping: 0.712401 ms MarkObjects: 379.904815 ms  DeleteObjects: 1.658961 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 22.438038 ms
-Shader warmup: 52 shaders 223 combinations 0.070s
-
-Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 52425.
-Total: 389.294739 ms (FindLiveObjects: 5.222862 ms CreateObjectMapping: 0.892060 ms MarkObjects: 382.620667 ms  DeleteObjects: 0.558220 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 77.180878 ms
-Shader warmup: 51 shaders 222 combinations 0.001s
-
-Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 57306.
-Total: 365.096051 ms (FindLiveObjects: 4.512522 ms CreateObjectMapping: 1.067930 ms MarkObjects: 359.117019 ms  DeleteObjects: 0.397670 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 79.649269 ms
-
-Unloading 323 unused Assets to reduce memory usage. Loaded Objects now: 14274.
-Total: 413.367868 ms (FindLiveObjects: 1.598930 ms CreateObjectMapping: 0.774821 ms MarkObjects: 409.245756 ms  DeleteObjects: 1.747091 ms)
-
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 7f8f977fe6c0 -> priority: 1 
-  Thread -> id: 7f8f96ffd6c0 -> priority: 1 
-  Thread -> id: 7f8f967fc6c0 -> priority: 1 
-  Thread -> id: 7f8f95ffb6c0 -> priority: 1 
