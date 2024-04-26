@@ -1,0 +1,48 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">0</pref>
+	<pref name="Screenmanager Resolution Height" type="int">800</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1280</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="achievement_chapter1_achieved" type="int">1</pref>
+	<pref name="achievement_chapter1_all_cubes_achieved" type="int">1</pref>
+	<pref name="achievement_chapter1_all_cubes_submitted" type="int">1</pref>
+	<pref name="achievement_chapter1_submitted" type="int">1</pref>
+	<pref name="achievement_chapter1b_achieved" type="int">1</pref>
+	<pref name="achievement_chapter1b_submitted" type="int">1</pref>
+	<pref name="achievement_chapter2_achieved" type="int">1</pref>
+	<pref name="achievement_chapter2_all_cubes_achieved" type="int">1</pref>
+	<pref name="achievement_chapter2_all_cubes_submitted" type="int">1</pref>
+	<pref name="achievement_chapter2_submitted" type="int">1</pref>
+	<pref name="achievement_chapter3_achieved" type="int">1</pref>
+	<pref name="achievement_chapter3_all_cubes_achieved" type="int">1</pref>
+	<pref name="achievement_chapter3_all_cubes_submitted" type="int">1</pref>
+	<pref name="achievement_chapter3_submitted" type="int">1</pref>
+	<pref name="achievement_chapter4_achieved" type="int">1</pref>
+	<pref name="achievement_chapter4_all_cubes_achieved" type="int">1</pref>
+	<pref name="achievement_chapter4_all_cubes_submitted" type="int">1</pref>
+	<pref name="achievement_chapter4_submitted" type="int">1</pref>
+	<pref name="full_screen" type="int">1</pref>
+	<pref name="input_config_clear" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDEyNwogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDExLAogICAgICAgIDEwCiAgICBdCn0=</pref>
+	<pref name="input_config_menuback" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDgsCiAgICAgICAgMjcKICAgIF0sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFsKICAgICAgICA1CiAgICBdCn0=</pref>
+	<pref name="input_config_menuconfirm" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDEzLAogICAgICAgIDMyLAogICAgICAgIDI3MQogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDQKICAgIF0KfQ==</pref>
+	<pref name="input_config_menudown" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3NAogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDIxLAogICAgICAgIDEwMgogICAgXQp9</pref>
+	<pref name="input_config_menuleft" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3NgogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDIyLAogICAgICAgIDEwMAogICAgXQp9</pref>
+	<pref name="input_config_menuright" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3NQogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDIwLAogICAgICAgIDEwMQogICAgXQp9</pref>
+	<pref name="input_config_menuup" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3MwogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDE5LAogICAgICAgIDEwMwogICAgXQp9</pref>
+	<pref name="input_config_pause" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3LAogICAgICAgIDExMgogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDE1CiAgICBdCn0=</pref>
+	<pref name="input_config_playerdash" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDMwNCwKICAgICAgICAzMDMsCiAgICAgICAgMTIwLAogICAgICAgIDQ4CiAgICBdLAogICAgImNvbnRyb2xsZXJJbnB1dHMiOiBbXSwKICAgICJjb250cm9sbGVyRWxlbWVudHMiOiBbCiAgICAgICAgNSwKICAgICAgICA3CiAgICBdCn0=</pref>
+	<pref name="input_config_playerdown" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3NCwKICAgICAgICAxMTUKICAgIF0sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFsKICAgICAgICAyMSwKICAgICAgICAxMDIKICAgIF0KfQ==</pref>
+	<pref name="input_config_playerjump" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3MywKICAgICAgICAxMTksCiAgICAgICAgOTksCiAgICAgICAgMzIKICAgIF0sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFsKICAgICAgICA0CiAgICBdCn0=</pref>
+	<pref name="input_config_playerleft" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3NiwKICAgICAgICA5NwogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDIyLAogICAgICAgIDEwMAogICAgXQp9</pref>
+	<pref name="input_config_playerright" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDI3NSwKICAgICAgICAxMDAKICAgIF0sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFsKICAgICAgICAyMCwKICAgICAgICAxMDEKICAgIF0KfQ==</pref>
+	<pref name="input_config_quickrestart" type="string">ewogICAgImtleUNvZGVzIjogW10sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFtdCn0=</pref>
+	<pref name="input_config_skip" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDgKICAgIF0sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFsKICAgICAgICA4CiAgICBdCn0=</pref>
+	<pref name="run_in_background" type="int">0</pref>
+	<pref name="unity.player_session_count" type="string">OA==</pref>
+	<pref name="unity.player_sessionid" type="string">ODQxOTIxOTE2MjM2NzIwNDExNA==</pref>
+</unity_prefs>
