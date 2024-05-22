@@ -26,6 +26,8 @@
 	<pref name="achievement_chapter4_all_cubes_achieved" type="int">1</pref>
 	<pref name="achievement_chapter4_all_cubes_submitted" type="int">1</pref>
 	<pref name="achievement_chapter4_submitted" type="int">1</pref>
+	<pref name="achievement_chapter5_achieved" type="int">1</pref>
+	<pref name="achievement_chapter5_submitted" type="int">1</pref>
 	<pref name="full_screen" type="int">1</pref>
 	<pref name="input_config_clear" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDEyNwogICAgXSwKICAgICJjb250cm9sbGVySW5wdXRzIjogW10sCiAgICAiY29udHJvbGxlckVsZW1lbnRzIjogWwogICAgICAgIDExLAogICAgICAgIDEwCiAgICBdCn0=</pref>
 	<pref name="input_config_menuback" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDgsCiAgICAgICAgMjcKICAgIF0sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFsKICAgICAgICA1CiAgICBdCn0=</pref>
@@ -43,6 +45,6 @@
 	<pref name="input_config_quickrestart" type="string">ewogICAgImtleUNvZGVzIjogW10sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFtdCn0=</pref>
 	<pref name="input_config_skip" type="string">ewogICAgImtleUNvZGVzIjogWwogICAgICAgIDgKICAgIF0sCiAgICAiY29udHJvbGxlcklucHV0cyI6IFtdLAogICAgImNvbnRyb2xsZXJFbGVtZW50cyI6IFsKICAgICAgICA4CiAgICBdCn0=</pref>
 	<pref name="run_in_background" type="int">0</pref>
-	<pref name="unity.player_session_count" type="string">OA==</pref>
-	<pref name="unity.player_sessionid" type="string">ODQxOTIxOTE2MjM2NzIwNDExNA==</pref>
+	<pref name="unity.player_session_count" type="string">MTA=</pref>
+	<pref name="unity.player_sessionid" type="string">MjYyOTkwOTY1ODcyNTYwNDE4MQ==</pref>
 </unity_prefs>
