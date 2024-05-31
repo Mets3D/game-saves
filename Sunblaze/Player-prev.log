@@ -19,15 +19,15 @@ clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessel
 buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
  GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_in
 t64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 37143440
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 14454656
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.301 seconds
+- Completed reload, in  0.321 seconds
 Default vsync count 1
 requesting resize 1280 x 800
 Using native desktop resolution 1280 x 800
 requesting fullscreen 1280 x 800 at 0 Hz
 Desktop is 1280 x 800 @ 60 Hz
-UnloadTime: 3.058751 ms
+UnloadTime: 3.290962 ms
 ERROR: ld.so: object '/home/deck/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
 [S_API] SteamAPI_Init(): Loaded '/home/deck/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 1525660
@@ -37,13 +37,13 @@ Using native desktop resolution 1280 x 800
 requesting fullscreen 1280 x 800 at 60 Hz
 Desktop is 1280 x 800 @ 60 Hz
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.315834 ms
+UnloadTime: 11.571205 ms
 
-Unloading 1231 unused Assets to reduce memory usage. Loaded Objects now: 11315.
-Total: 295.788315 ms (FindLiveObjects: 0.924160 ms CreateObjectMapping: 0.648820 ms MarkObjects: 293.196295 ms  DeleteObjects: 1.018250 ms)
+Unloading 1231 unused Assets to reduce memory usage. Loaded Objects now: 11314.
+Total: 293.388845 ms (FindLiveObjects: 0.956670 ms CreateObjectMapping: 0.534970 ms MarkObjects: 290.923594 ms  DeleteObjects: 0.972471 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 20.255987 ms
+UnloadTime: 23.429409 ms
 0:3(12): error: extension `GL_OVR_multiview2' unsupported in vertex shader
 
 Note: Creation of internal variant of shader 'GUI/Text Shader' failed.
@@ -56,26 +56,19 @@ Note: Creation of internal variant of shader 'Hidden/InternalErrorShader' failed
 ShaderProgram is unsupported, but because jobified rendering is enabled the ShaderProgram can not be removed. 
 (Filename:  Line: 445)
 
-Shader warmup: 50 shaders 200 combinations 0.168s
+Shader warmup: 50 shaders 200 combinations 0.146s
 
-Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 61024.
-Total: 303.714519 ms (FindLiveObjects: 4.524442 ms CreateObjectMapping: 1.470000 ms MarkObjects: 297.386537 ms  DeleteObjects: 0.332590 ms)
+Unloading 64 unused Assets to reduce memory usage. Loaded Objects now: 64667.
+Total: 313.022582 ms (FindLiveObjects: 5.373922 ms CreateObjectMapping: 1.479160 ms MarkObjects: 305.826900 ms  DeleteObjects: 0.341650 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 100.469776 ms
+UnloadTime: 102.757937 ms
 
-Unloading 338 unused Assets to reduce memory usage. Loaded Objects now: 14106.
-Total: 359.673349 ms (FindLiveObjects: 1.116731 ms CreateObjectMapping: 0.720970 ms MarkObjects: 356.322667 ms  DeleteObjects: 1.512111 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 24.062349 ms
-Shader warmup: 52 shaders 223 combinations 0.192s
-
-Unloading 159 unused Assets to reduce memory usage. Loaded Objects now: 64720.
-Total: 347.634695 ms (FindLiveObjects: 6.979823 ms CreateObjectMapping: 1.438150 ms MarkObjects: 338.649011 ms  DeleteObjects: 0.566291 ms)
+Unloading 336 unused Assets to reduce memory usage. Loaded Objects now: 14097.
+Total: 349.802625 ms (FindLiveObjects: 1.126331 ms CreateObjectMapping: 0.692370 ms MarkObjects: 346.565384 ms  DeleteObjects: 1.417280 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 7ff69f7fe6c0 -> priority: 1 
-  Thread -> id: 7ff69effd6c0 -> priority: 1 
-  Thread -> id: 7ff69e7fc6c0 -> priority: 1 
-  Thread -> id: 7ff69dffb6c0 -> priority: 1 
+  Thread -> id: 7f64effff6c0 -> priority: 1 
+  Thread -> id: 7f64ef7fe6c0 -> priority: 1 
+  Thread -> id: 7f64eeffd6c0 -> priority: 1 
+  Thread -> id: 7f64ee7fc6c0 -> priority: 1 
