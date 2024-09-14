@@ -1,0 +1,97 @@
+Found a proper site yo https://discretize.eu/fractals/
+
+Fractal Notes:
+	Aetherblade
+		-
+	Aquatic Ruins
+		- 
+	Captain Mai Trin Boss
+		Person with purple icon has aggro. Lure her into electric AoE to break 10 stacks of shield, then smash her. 
+		Kill adds.
+	Chaos
+		Kill fanatics, do jumping puzzle past harpy golems.
+		Kitty Golems & Chaos Anomaly
+			Pull golems together, move away when you have big AoE stuck to you, smack Anomaly, repeat x3.
+		Light all 4 bonfires to melt a wall.
+		Brazen Gladiator
+			Only damagable after he steps on purple square. His attack dazes so get Stability.
+			
+	Cliffside
+		- 
+	Deepstone
+		West: Tetris
+			Deepstone Sentinel: Spawns tornado on itself every 20% hp. CC the tornado to save teammates.
+		East: Spiders
+			Avoid wind AoE at all cost, 2 people stand on runes, go and kill spiders.
+		Use Light of Deldrimor to make shadow creatures vulnerable.
+		Use Alacrity to reduce its recharge for faster gap crossing.
+		Use pulls in elevator for fast clear.
+		The Voice
+			Teleports away at 80% and 40% HP. CC him to stop the beam attack.
+			Teleports to center at 61% and 21%. Stay near him and kill ads as they approach. Slow them with Light.
+		
+	Molten Boss
+		- 
+	Molten Furnace
+		At the final boss, you're apparently supposed to split in 2 groups for the start, then not stack while the middle bit is getting destroyed (something about reflecting?) then stack for the actual final boss (who dies quick but has 4 stages)
+	Nightmare
+		- 
+	Shattered Observatory
+		- 
+	Siren's Reef
+		1 Cannon:
+		- One guy stay on the cannon to kill ads, rest kill the guy? (needs more info)
+		Treasure:
+		- Two chests, throw them to teammates, try not to throw it onto eyeballs, if someone does, let it drop.
+		- Take the chest to the ship.
+		Ship
+		- Take the chest from the other side to the ship. 2 people on cannons, rest bouncing chest. Kill boss.
+		- Same shit on other side.
+		4 Cannons
+		- 4 guys on cannons, one killing ads that spawn on ship or make it all the way.
+		Final boss
+		- Kill adds. Elite first, then the rest.
+		- Take red circle away from team and learn dodge timing.
+		- Take green circle to team to split the damage.
+		- If you must eat an AoE, eat any that isn't a straight line. That will blow you off the ship and you're screwed.
+		
+	Snowblind
+		- 
+	Sunqua Peak
+		- 
+	Solid Ocean
+		- 
+	Swampland
+		3 Wisps
+			Spread to the 3 wisps, pick them up at the same time, avoid traps and mobs to bring it back fast enough.
+			Switch utility skills and let characters with teleports/stunbreakscarry wisps. Give teammates Stability/Aegis.
+			An item can be picked up near the door to break stuns on wisp carriers, use it.
+		Kill Mossman.
+		Bloomhunger
+			Keep walking into green circles. Boss goes invuln every 25% hp. Kill ads and blossoms.
+			At 25%, 4 wisps appear that must be delivered quickly, then GG.		
+	Thaumanova Reactor
+		Kill the elite in the center back. Jump pad to North-East to Slime.
+		Slime: Do not smack when it is a shield. You die.
+		Go to East, do some PvE.
+		Go south to do the shield maze. 3 buttons, have to be pressed sequentially. Avoid golems.
+		TODO: How to solo heat room? 1 person can go do that while the others do the shield maze.
+		For the boss fight, establish a player order for the special ability to save the platform. Stack at boss and melee.
+	Twilight Oasis
+		- 
+	Uncategorized
+		- 
+	Underground Facility
+		Start
+		- 1 person goes up to the room to open the door and stays there. Team runs through.
+		- A 2nd person goes up again to open the 2nd door.
+		
+		Bombs
+		- Wait for pipe to puke out bombs (red marker), grab stealth, run through red circles, place bomb.
+		Boss
+		- Run past ads, run far into the boss room on the left side to de-aggro them.
+		- Purple icon means aggro, lure him underneath a barrel and douse him, then DPS. Can be done in 1 go.
+	Urban Battleground
+		- 
+	Volcanic
+		- 

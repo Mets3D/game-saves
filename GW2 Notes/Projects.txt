@@ -1,0 +1,96 @@
+ArcDPS guide: https://phoenixuprising.net/raiding-101-using-arcdps/
+**Current GW2 projects:**
+	PvE to Raids
+		Stop building ascended gear, we might be making a terrible mistake.
+			T4 fractals are clearly very easy. I need to find out how easy CM's are, and if I'm fine with my berserker necro there. If they are easy, great, I can move on to Raids. If not, try to find a build I would enjoy that works in both raids and CM's.
+		Take notes on how to do each fractal.
+	Healer Build (Ascended Magi Armor)
+		https://metabattle.com/wiki/Build:Scourge_-_Support_Healer
+		https://metabattle.com/wiki/Build:Tempest_-_Support_Healer
+		
+		Maybe craft Envoy Armor, so it could be turned into Legendary eventually?
+		Step 1: Defeat a Raid Boss.
+	Alacrity build 
+		This would be this chronomancer https://metabattle.com/wiki/Build:Chronomancer_-_Utility_Boon_Support
+		with Diviner's trinkets (aka Steelstar's) and the berserker armor from the Necro.
+		We have a backpiece and I think another 8th birthday gift for the amulet. I wonder if we could buy rings and shit for laurels.
+		Even so, infusing a backpiece is 50g (maybe not needed) and agony resistance is 70g...
+
+**Next projects:**
+	Join a guild, get them to teach me Raids and do some raiding!
+	LWS3 story
+	The Icebrood Saga
+
+**Inventory Management**
+	- All characters need a Relic, which is a new equipment since Secrets of the Obscure. They got Relic Chests to pick one (or 3). Just look up a build online.
+	- Remember we have 2 Equipment Templates, and they could contain gear not otherwise visible.
+	Metemer's Inventory Guild Bank
+		- Lots of T5 and some T6 materials
+		- Should store everything that isn't Account bound (most things are tho)
+	
+	Necromancer
+		- Was my main, so has full berserker high Agony Resistance gear, good for PvE.
+		- Reward boosters, Fractal power boosters
+		- Items for infusing and salvaging ascended trinkets
+	Mesmer
+		- Full Exotic berserker gear, although I think I also used to transfer all the ascended gear from the Necro to run Fractals with this char.
+	Elementalist
+		- Berserker and some alternative gear, with some different stats on trinkets. Used to be for WvW.
+		- Also has some stat-selectable ascended trinkets in 1st loadout.
+	Thief
+		- Salvaged a Berserker's Whisper Secret Pistol and a Warden Dagger of Generosity for the sigil to try and sell, not sure why they're worth 130g when the Superior sigil is 10s.
+		- Quartz Crystals to turn into Charged Quartz Crystals daily in the home instance.
+	Warrior (used for storage - Would prefer to use Thief for daily salvage, and Engineer for the rest, instead.)
+		- Exotic berserker (glass cannon) gear
+		- Inventory: Currencies, daily consumables. Can log in daily to:
+		- Consume ascended items daily (bloodstone dust, etc)
+		- Use Ley Energy Matter Converter (options are random, look for WvW Supplies, Trophy Bag, Large Crafting Bag, Sigil/Rune Bag, Educational Supplies, Rare Gear, Jewels, Obsidian.)
+	Ranger (used for storage, don't intend to play)
+		- Meme CondiDPS gear (used to run solo cancer build in WvW as a joke)
+		- Inventory: Selectable skins, Stat-selectable gear, Gear boxes, Ascended trinkets with stats (that used to be) worth keeping
+		- Exotic gear with already selected stats could probably just be salvaged.
+		- Skin selection boxes could just be used up arbitrarily.
+	Guardian (Empty, don't intend to play)
+		- Exotic MixedDPS gear, no idea what for.
+		- Healing gear, including ascended trinkets, possibly for WvW.
+	Revenant (Empty, don't intend to play)
+		- Just some exotic berserker gear. Used to run an Alacrity build in Fractals, but the gear ain't here.
+	Engineer (Empty, don't intend to play)
+		- No gear at all, only ever used this character in PvP.
+
+**Potential Projects**
+	https://wiki.guildwars2.com/wiki/Raise_the_Banners:_Amnoon_Arbitrator
+		Looks like we can complete the Path of Fire story up to 3 times, each time choosing a different thing in chapter 2, and then get an ascended back item for it, with a bonus 4th ascended backpiece if we do all of them.
+		That's a lot of ascended back items, wow! But we should definitely at least get the 1st one! Although for now I already have an unused Finite Result...
+
+	https://wiki.guildwars2.com/wiki/Armor_set#Karma_armor
+	https://wiki.guildwars2.com/wiki/Mistward_Headwrap
+	https://wiki.guildwars2.com/wiki/Box_of_Elegy_Armor
+	https://wiki.guildwars2.com/wiki/Dark_Tools_for_Dark_Times
+	https://wiki.guildwars2.com/wiki/Grawl_Archaeological_Study
+
+**Stats that are used in meta builds as of March 2021 (useful for ascended ring salvaging)**:
+	Celestial (all stats)
+	Power Precision Ferocity
+	Power Precision Ferocity but with Precision as highest
+	Power Precision Ferocity Concentration (Boon DPS)
+	Power Precision Ferocity ConditionDamage
+	Power Precision Vitality Ferocity (WvW, super common)
+	Power Precision ConditionDamage Expertise
+	Power Precision ConditionDamage
+	Power Healing Concentration (Healer)
+	Precision Vitality Healing
+	Toughness Vitality ConditionDamage Expertise (Condi Boon Support!?)
+
+	WvW:
+	Toughness Vitality Healing Concentration (minstrel, gl)
+
+	Very rare:
+	Power Precision Toughness
+	Power Toughness Ferocity
+	Toughness Vitality Condition Damage
+	
+**Abandoned Projects**
+	Completely useless achievements:
+	- Find all letters in Lake Doric https://wiki.guildwars2.com/wiki/Letters_from_E
+	- Golden Lost Badges http://dulfy.net/2014/12/04/gw2-go-for-the-gold-golden-badges-achievement-guide/

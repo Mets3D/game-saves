@@ -1,0 +1,810 @@
+<OverlayData>
+<MarkerCategory name="Fractals" DisplayName="Fractals">
+  <MarkerCategory name="SlayingSigil" DisplayName="Slaying Sigil">
+    <MarkerCategory name="CentaurSlaying" DisplayName="Centaur Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\CentaurSlaying.png"/>
+    <MarkerCategory name="DemonSlaying" DisplayName="Demon Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\DemonSlaying.png"/>
+    <MarkerCategory name="DestroyerSlaying" DisplayName="Destroyer Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\DestroyerSlaying.png"/>
+    <MarkerCategory name="DredgeSlaying" DisplayName="Dredge Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\DredgeSlaying.png"/>
+    <MarkerCategory name="ElementalSlaying" DisplayName="Elemental Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\ElementalSlaying.png"/>
+    <MarkerCategory name="FlamelegionSlaying" DisplayName="Flame Legion Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\FlamelegionSlaying.png"/>
+    <MarkerCategory name="GhostSlaying" DisplayName="Ghost Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\GhostSlaying.png"/>
+    <MarkerCategory name="GrawlSlaying" DisplayName="Grawl Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\GrawlSlaying.png"/>
+    <MarkerCategory name="IcebroodSlaying" DisplayName="Icebrood Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\IcebroodSlaying.png"/>
+    <MarkerCategory name="InquestSlaying" DisplayName="Inquest Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\InquestSlaying.png"/>
+    <MarkerCategory name="JusticeSlaying" DisplayName="Justice Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\JusticeSlaying.png"/>
+    <MarkerCategory name="NightmareCourtSlaying" DisplayName="Nightmare Court Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\NightmareCourtSlaying.png"/>
+    <MarkerCategory name="OgreSlaying" DisplayName="Ogre Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\OgreSlaying.png"/>
+    <MarkerCategory name="SerpentSlaying" DisplayName="Krait Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\SerpentSlaying.png"/>
+    <MarkerCategory name="SonsOfSvanirSlaying" DisplayName="Sons Of Svanir Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\SonsOfSvanirSlaying.png"/>
+    <MarkerCategory name="UndeadSlaying" DisplayName="Undead Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\Slaying\UndeadSlaying.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="BasicSigil" DisplayName="DPS Sigil">
+    <MarkerCategory name="AirSigil" DisplayName="Air Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\BasicDPS\AirSigil.png"/>
+    <MarkerCategory name="ForceSigil" DisplayName="Force Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\BasicDPS\ForceSigil.png"/>
+    <MarkerCategory name="ImpactSigil" DisplayName="Impact Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\BasicDPS\ImpactSigil.png"/>
+    <MarkerCategory name="NOTImpactSigil" DisplayName="NOT Impact Sigil" iconSize="0.40" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="0.5" resetLength="60" iconFile="Data\SigilMarkers\BasicDPS\NOTImpactSigil.png"/>
+    <MarkerCategory name="NightSigil" DisplayName="Night Sigil" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\SigilMarkers\BasicDPS\NightSigil.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="Utility" DisplayName="Utility">
+    <MarkerCategory name="SlayingPotions" DisplayName="Slaying Potions">
+      <MarkerCategory name="CentaurPotion" DisplayName="Centaur Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\CentaurPotion.png"/>
+      <MarkerCategory name="DemonPotion" DisplayName="Demon Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\DemonPotion.png"/>
+      <MarkerCategory name="DestroyerPotion" DisplayName="Destroyer Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\DestroyerPotion.png"/>
+      <MarkerCategory name="DredgePotion" DisplayName="Dredge Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\DredgePotion.png"/>
+      <MarkerCategory name="ElementalPotion" DisplayName="Elemental Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\ElementalPotion.png"/>
+      <MarkerCategory name="FlamelegionPotion" DisplayName="Flame Legion Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\FlamelegionPotion.png"/>
+      <MarkerCategory name="GhostPotion" DisplayName="Ghost Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\GhostPotion.png"/>
+      <MarkerCategory name="GrawlPotion" DisplayName="Grawl Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\GrawlPotion.png"/>
+      <MarkerCategory name="IcebroodPotion" DisplayName="Icebrood Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\IcebroodPotion.png"/>
+      <MarkerCategory name="InquestPotion" DisplayName="Inquest Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\InquestPotion.png"/>
+      <MarkerCategory name="SerpentPotion" DisplayName="Krait Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\KraitPotion.png"/>
+      <MarkerCategory name="NightmareCourtPotion" DisplayName="Nightmare Court Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\NightmareCourtPotion.png"/>
+      <MarkerCategory name="OgrePotion" DisplayName="Ogre Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\OgrePotion.png"/>
+      <MarkerCategory name="OutlawSlaying" DisplayName="Outlaw Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\OutlawPotion.png"/>
+      <MarkerCategory name="ScarletsArmyPotion" DisplayName="Scarlets Army Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\ScarletPotion.png"/>
+      <MarkerCategory name="SonsOfSvanirPotion" DisplayName="Sons Of Svanir Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\SvanirPotion.png"/>
+      <MarkerCategory name="UndeadPotion" DisplayName="Undead Potion" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\UndeadPotion.png"/>
+      <MarkerCategory name="NOpotionMarker" DisplayName="NO Potion Marker" iconSize="0.70" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="1.5" resetLength="60" iconFile="Data\PotionMarkers\NOpotionMarker.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="Utility" DisplayName="Utility">
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Food" DisplayName="Food">
+    <MarkerCategory name="pDPS" DisplayName="pDPS">
+    </MarkerCategory>
+    <MarkerCategory name="cDPS" DisplayName="cDPS">
+    </MarkerCategory>
+    <MarkerCategory name="Support" DisplayName="Support">
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Day/Night" DisplayName="Day/Night Indicators">
+      <MarkerCategory name="Daytime" DisplayName="Daytime" iconSize="0.75" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="3.25" resetLength="60" iconFile="Data\SunLogo.png"/>
+      <MarkerCategory name="Daytime-Face" DisplayName="Daytime-Face" iconSize="0.75" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="3.25" resetLength="60" iconFile="Data\SunLogoWFace.png"/>
+      <MarkerCategory name="Nighttime-Face" DisplayName="Nighttime-Face" iconSize="0.65" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="3.25" resetLength="60" iconFile="Data\MoonLogoWFace.png"/>
+      <MarkerCategory name="Nighttime" DisplayName="Nighttime" iconSize="0.65" behavior="0" alpha="1.0" fadeNear="1200" fadeFar="1300" heightOffset="3.25" resetLength="60" iconFile="Data\DarkMoonLogo.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="PortalSpots" DisplayName="Portal Spots">
+      <MarkerCategory name="PortalSTART" DisplayName="Portal-Start" iconSize="1.00" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60" iconFile="Data\SkillUsage\Portal-IN-Marker.png"/>
+      <MarkerCategory name="PortalEND" DisplayName="Portal-End" iconSize="1.00" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60" iconFile="Data\SkillUsage\Portal-OUT-Marker.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="BlinkSpots" DisplayName="Blink Spots">
+      <MarkerCategory name="BlinkStart-black" DisplayName="Blink Start-black" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerUP-black.png"/>
+      <MarkerCategory name="BlinkStart-white" DisplayName="Blink Start-white" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerUP-white.png"/>
+      <MarkerCategory name="BlinkAIM-black" DisplayName="Blink AIM-black" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerDOWN-black.png"/>
+      <MarkerCategory name="BlinkAIM-white" DisplayName="Blink AIM-white" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerDOWN-white.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="LeapAndJumpSpots" DisplayName="Leap & Jump Spots">
+      <MarkerCategory name="LeapSTART" DisplayName="Leap-Start" iconSize="0.50" behavior="0" alpha="0.50" fadeNear="1200" fadeFar="1300" heightOffset="0" resetLength="60" iconFile="Data\SkillUsage\LeapMarker.png"/>
+      <MarkerCategory name="LeapAIM-black" DisplayName="Leap-AIM-black" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60" iconFile="Data\Arrows\CrosshairMarker-Black.png"/>
+      <MarkerCategory name="LeapAIM-white" DisplayName="Leap-AIM-white" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="1300" fadeFar="1500" heightOffset="0" resetLength="60" iconFile="Data\Arrows\CrosshairMarker-White.png"/>
+      <MarkerCategory name="FARLeapAIM-white" DisplayName="FARLeap-AIM-white" iconSize="0.50" behavior="0" alpha="1.0" fadeNear="5300" fadeFar="5500" heightOffset="0" resetLength="60" iconFile="Data\Arrows\CrosshairMarker-White.png"/>
+      <MarkerCategory name="JumpMarker" DisplayName="Jump Marker" iconSize="0.50" behavior="0" alpha="0.50" fadeNear="1200" fadeFar="1300" heightOffset="0" resetLength="60" iconFile="Data\SkillUsage\JumpMarker.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="StealthSpots" DisplayName="Stealth Spots">
+      <MarkerCategory name="StealthMarker" DisplayName="Stealth Marker" iconSize="0.60" behavior="0" alpha="1.0" fadeNear="1500" fadeFar="2000" heightOffset="0" resetLength="60" iconFile="Data\SkillUsage\StealthMarker.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="GGSpots" DisplayName="/GG Spots">
+      <MarkerCategory name="GGIndicator" DisplayName="/GG Indicator" iconSize="1.00" behavior="0" alpha="1.0" fadeNear="900" fadeFar="1000" heightOffset="1.0" resetLength="60" iconFile="Data\SkillUsage\GGmarker.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="ExtraMechanics&Directions" DisplayName="Extra Mechanics/Directions">
+      <MarkerCategory name="LightOrbBlue" DisplayName="Guide Orb-Blue" iconSize="0.60" behavior="0" alpha="0.65" fadeNear="2000" fadeFar="2200" heightOffset="0" resetLength="60" iconFile="Data\Directions\LightOrb-Blue.png"/>
+      <MarkerCategory name="LightOrbYellow" DisplayName="Guide Orb-Yellow" iconSize="0.60" behavior="0" alpha="0.65" fadeNear="2000" fadeFar="2200" heightOffset="0" resetLength="60" iconFile="Data\Directions\LightOrb-Yellow.png"/>
+      <MarkerCategory name="DeepstoneChests" DisplayName="Deepstone Chest Locations" iconSize="0.50" behavior="0" alpha="0.75" fadeNear="1300" fadeFar="1700" heightOffset="0" resetLength="60" iconFile="Data\Directions\ChestMarker.png"/>
+      <MarkerCategory name="NorthMarkerFrac" DisplayName="North Marker" iconSize="1.0" behavior="0" alpha="0.75" fadeNear="3200" fadeFar="3500" heightOffset="0.5" resetLength="120" iconFile="Data\Directions\NorthMarker.png"/>
+      <MarkerCategory name="SouthMarkerFrac" DisplayName="South Marker" iconSize="1.0" behavior="0" alpha="0.75" fadeNear="3200" fadeFar="3500" heightOffset="0.5" resetLength="120" iconFile="Data\Directions\SouthMarker.png"/>
+      <MarkerCategory name="EastMarkerFrac" DisplayName="East Marker" iconSize="1.0" behavior="0" alpha="0.75" fadeNear="3200" fadeFar="3500" heightOffset="0.5" resetLength="120" iconFile="Data\Directions\EastMarker.png"/>
+      <MarkerCategory name="WestMarkerFrac" DisplayName="West Marker" iconSize="1.0" behavior="0" alpha="0.75" fadeNear="3200" fadeFar="3500" heightOffset="0.5" resetLength="120" iconFile="Data\Directions\WestMarker.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="FractalHitboxes" DisplayName="Hitboxes">
+      <MarkerCategory name="HitboxMAMA" DisplayName="Hitbox MAMA" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Fractals\Hitbox-MAMA.png"/>
+      <MarkerCategory name="HitboxSiax" DisplayName="Hitbox Siax" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Fractals\Hitbox-Siax.png"/>
+      <MarkerCategory name="HitboxEnsolyss" DisplayName="Hitbox Ensolyss" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Fractals\Hitbox-Ensolyss.png"/>
+      <MarkerCategory name="HitboxSkorvald" DisplayName="Hitbox Skorvald" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Fractals\Hitbox-Skorvald.png"/>
+      <MarkerCategory name="HitboxArtsariiv" DisplayName="Hitbox Artsariiv" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="1100" fadeFar="1200" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Fractals\Hitbox-Artsariiv.png"/>
+      <MarkerCategory name="HitboxArkk" DisplayName="Hitbox Arkk" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Fractals\Hitbox-Arkk.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="Boon&SkillReminders" DisplayName="Boon & Skill Reminders">
+      <MarkerCategory name="MightStacking" DisplayName="Might Stacking" iconSize="0.35" behavior="0" alpha="0.75" fadeNear="900" fadeFar="1000" heightOffset="0.0" resetLength="60" iconFile="Data\SkillUsage\MightMarker.png"/>
+      <MarkerCategory name="Stability" DisplayName="Stability" iconSize="0.35" behavior="0" alpha="0.75" fadeNear="900" fadeFar="1000" heightOffset="0.0" resetLength="60" iconFile="Data\SkillUsage\StabilityMarker.png"/>
+      <MarkerCategory name="ReflectMarker" DisplayName="Reflects" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.0" resetLength="60" iconFile="Data\SkillUsage\ReflectMarker.png"/>
+      <MarkerCategory name="CrowdControl" DisplayName="Crowd Control" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.0" resetLength="60" iconFile="Data\SkillUsage\CCMarker.png"/>
+  </MarkerCategory>
+</MarkerCategory>
+<MarkerCategory name="Raids" DisplayName="Raids">
+  <MarkerCategory name="W1" DisplayName="W1">
+    <MarkerCategory name="SabethaDirections" DisplayName="Sabetha Compass">
+      <MarkerCategory name="NorthMarker" DisplayName="North Marker" iconSize="1.25" behavior="0" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Directions\NorthMarker.png"/>
+      <MarkerCategory name="SouthMarker" DisplayName="South Marker" iconSize="1.25" behavior="0" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Directions\SouthMarker.png"/>
+      <MarkerCategory name="EastMarker" DisplayName="East Marker" iconSize="1.25" behavior="0" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Directions\EastMarker.png"/>
+      <MarkerCategory name="WestMarker" DisplayName="West Marker" iconSize="1.25" behavior="0" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Directions\WestMarker.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="W2" DisplayName="W2">
+    <MarkerCategory name="SlothasorShrooms" DisplayName="Slothasor Shrooms">
+      <MarkerCategory name="Marker1" DisplayName="Shroom Marker1" iconSize="0.80" behavior="4" alpha="0.80" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+      <MarkerCategory name="Marker2" DisplayName="Shroom Marker2" iconSize="0.80" behavior="4" alpha="0.80" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+      <MarkerCategory name="Marker3" DisplayName="Shroom Marker3" iconSize="0.80" behavior="4" alpha="0.80" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+      <MarkerCategory name="Marker4" DisplayName="Shroom Marker4" iconSize="0.80" behavior="4" alpha="0.80" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="MatthiasWells" DisplayName="Matthias Wells">
+      <MarkerCategory name="Marker1" DisplayName="Well Marker1" iconSize="1.20" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+      <MarkerCategory name="Marker2" DisplayName="Well Marker2" iconSize="1.20" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+      <MarkerCategory name="Marker3" DisplayName="Well Marker3" iconSize="1.20" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+      <MarkerCategory name="Marker4" DisplayName="Well Marker4" iconSize="1.20" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="W3" DisplayName="W3">
+  </MarkerCategory>
+  <MarkerCategory name="W4" DisplayName="W4">
+    <MarkerCategory name="SamarogDoorKey" DisplayName="Samarog Door Keys">
+      <MarkerCategory name="SamarogDoorKey1" DisplayName="Samarog Door Key1" iconSize="0.75" behavior="4" alpha="1.00" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="180" iconFile="Data\Arrows\KeyMarker.png"/>
+      <MarkerCategory name="SamarogDoorKey2" DisplayName="Samarog Door Key2" iconSize="0.75" behavior="4" alpha="1.00" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="180" iconFile="Data\Arrows\KeyMarker.png"/>
+      <MarkerCategory name="SamarogDoorKey3" DisplayName="Samarog Door Key3" iconSize="0.75" behavior="4" alpha="1.00" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="180" iconFile="Data\Arrows\KeyMarker.png"/>
+      <MarkerCategory name="SamarogDoorKey4" DisplayName="Samarog Door Key4" iconSize="0.75" behavior="4" alpha="1.00" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="180" iconFile="Data\Arrows\KeyMarker.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="W5" DisplayName="W5">
+    <MarkerCategory name="DhuumGreen1" DisplayName="Dhuum Green nr1">
+      <MarkerCategory name="Marker1" DisplayName="Marker1" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+      <MarkerCategory name="Marker2" DisplayName="Marker2" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+      <MarkerCategory name="Marker3" DisplayName="Marker3" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+      <MarkerCategory name="Marker4" DisplayName="Marker4" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+      <MarkerCategory name="Marker5" DisplayName="Marker5" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker5.png"/>
+      <MarkerCategory name="Marker6" DisplayName="Marker6" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker6.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="DhuumGreen2" DisplayName="Dhuum Green nr2">
+      <MarkerCategory name="Marker1" DisplayName="Marker1" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+      <MarkerCategory name="Marker2" DisplayName="Marker2" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+      <MarkerCategory name="Marker3" DisplayName="Marker3" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+      <MarkerCategory name="Marker4" DisplayName="Marker4" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+      <MarkerCategory name="Marker5" DisplayName="Marker5" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker5.png"/>
+      <MarkerCategory name="Marker6" DisplayName="Marker6" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker6.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="DhuumGreen3" DisplayName="Dhuum Green nr3">
+      <MarkerCategory name="Marker1" DisplayName="Marker1" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+      <MarkerCategory name="Marker2" DisplayName="Marker2" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+      <MarkerCategory name="Marker3" DisplayName="Marker3" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+      <MarkerCategory name="Marker4" DisplayName="Marker4" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+      <MarkerCategory name="Marker5" DisplayName="Marker5" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker5.png"/>
+      <MarkerCategory name="Marker6" DisplayName="Marker6" iconSize="1.25" behavior="4" alpha="1.0" fadeNear="3200" fadeFar="3500" heightOffset="1.5" resetLength="120" iconFile="Data\Arrows\NumberMarkers\Marker6.png"/>
+    </MarkerCategory>    
+    <MarkerCategory name="NumericMarkers" DisplayName="Numeric Markers">
+      <MarkerCategory name="Marker1" DisplayName="Marker1" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+      <MarkerCategory name="Marker2" DisplayName="Marker2" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+      <MarkerCategory name="Marker3" DisplayName="Marker3" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+      <MarkerCategory name="Marker4" DisplayName="Marker4" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+      <MarkerCategory name="Marker5" DisplayName="Marker5" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker5.png"/>
+      <MarkerCategory name="Marker6" DisplayName="Marker6" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker6.png"/>
+      <MarkerCategory name="Marker7" DisplayName="Marker7" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker7.png"/>
+      <MarkerCategory name="Marker8" DisplayName="Marker8" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker8.png"/>
+      <MarkerCategory name="Marker9" DisplayName="Marker9" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker9.png"/>
+      <MarkerCategory name="Marker10" DisplayName="Marker10" iconSize="1.0" behavior="4" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker10.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="W6" DisplayName="W6">
+  </MarkerCategory>
+  <MarkerCategory name="ActionsPerMinute" DisplayName="Actions Per Minute">
+    <MarkerCategory name="W1" DisplayName="W1">
+      <MarkerCategory name="VG-apm" DisplayName="VG-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="3.50" resetLength="60" iconFile="Data\APM\VG-apm.png"/>
+      <MarkerCategory name="VG1-RED-apm" DisplayName="VG-RED-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\VG1-RED-apm.png"/>
+      <MarkerCategory name="VG2-GREEN-apm" DisplayName="VG-GREEN-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\VG2-GREEN-apm.png"/>
+      <MarkerCategory name="VG3-BLUE-apm" DisplayName="VG-BLUE-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\VG3-BLUE-apm.png"/>
+      <MarkerCategory name="GORSE-apm" DisplayName="GORSEVAL-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\GORSE-apm.png"/>
+      <MarkerCategory name="SABETHA-apm" DisplayName="SABETHA-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="3.50" resetLength="60" iconFile="Data\APM\SABETHA-apm.png"/>
+      <MarkerCategory name="SAB1-KERNAN-apm" DisplayName="SAB-KERNAN-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\SAB1-KERNAN-apm.png"/>
+      <MarkerCategory name="SAB2-KNUCKLES-apm" DisplayName="SAB-KNUCKLES-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\SAB2-KNUCKLES-apm.png"/>
+      <MarkerCategory name="SAB3-KARDE-apm" DisplayName="SAB-KARDE-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\SAB3-KARDE-apm.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="W2" DisplayName="W2">
+      <MarkerCategory name="SLOTHASOR-apm" DisplayName="SLOTHASOR-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\SLOTHASOR-apm.png"/>
+      <MarkerCategory name="trio1-BERG-apm" DisplayName="Trio-BERG-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.0" resetLength="60" iconFile="Data\APM\trio1-BERG-apm.png"/>
+      <MarkerCategory name="trio2-ZANE-apm" DisplayName="Trio-ZANE-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.0" resetLength="60" iconFile="Data\APM\trio2-ZANE-apm.png"/>
+      <MarkerCategory name="trio3-NARELLA-apm" DisplayName="Trio-NARELLA-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.0" resetLength="60" iconFile="Data\APM\trio3-NARELLA-apm.png"/>
+      <MarkerCategory name="MATTHIAS-apm" DisplayName="MATTHIAS-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\MATTHIAS-apm.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="W3" DisplayName="W3">
+      <MarkerCategory name="MCLEOD-apm" DisplayName="McLEOD-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\MCLEOD-apm.png"/>
+      <MarkerCategory name="KC-apm" DisplayName="KEEP CONSTRUCT-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\APM\KC-apm.png"/>
+      <MarkerCategory name="XERA-apm" DisplayName="XERA-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\XERA-apm.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="W4" DisplayName="W4">
+      <MarkerCategory name="CAIRN-apm" DisplayName="CAIRN-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\CAIRN-apm.png"/>
+      <MarkerCategory name="MO-apm" DisplayName="MURSAAT OVERSEER-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\MO-apm.png"/>
+      <MarkerCategory name="SAMAROG-apm" DisplayName="SAMAROG-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="3.50" resetLength="60" iconFile="Data\APM\SAMAROG-apm.png"/>
+      <MarkerCategory name="samarog1-GULDHEM-apm" DisplayName="samarog-GULDHEM-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\samarog1-GULDHEM-apm.png"/>
+      <MarkerCategory name="DEIMOS-apm" DisplayName="DEIMOS-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="3.50" resetLength="60" iconFile="Data\APM\DEIMOS-apm.png"/>
+      <MarkerCategory name="deimos1-SAUL-apm" DisplayName="Deimos-SAUL-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\deimos1-SAUL-apm.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="W5" DisplayName="W5">
+      <MarkerCategory name="DESMINA-apm" DisplayName="DESMINA-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\DESMINA-apm.png"/>
+      <MarkerCategory name="DHUUM-apm" DisplayName="DHUUM-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\DHUUM-apm.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="W6" DisplayName="W6">
+      <MarkerCategory name="CA-apm" DisplayName="CONJURED AMALGAMATE-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\APM\CA-apm.png"/>
+      <MarkerCategory name="twin-KENUT-apm" DisplayName="Twin-KENUT-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\twin-KENUT-apm.png"/>
+      <MarkerCategory name="twin-NIKARE-apm" DisplayName="Twin-NIKARE-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="2.5" resetLength="60" iconFile="Data\APM\twin-NIKARE-apm.png"/>
+      <MarkerCategory name="QADIM-apm" DisplayName="QADIM-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="3.50" resetLength="60" iconFile="Data\APM\QADIM-apm.png"/>
+      <MarkerCategory name="qadim1-HYDRA-apm" DisplayName="Qadim-HYDRA-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\qadim1-HYDRA-apm.png"/>
+      <MarkerCategory name="qadim2-DESTROYER-apm" DisplayName="Qadim-DESTROYER-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\qadim2-DESTROYER-apm.png"/>
+      <MarkerCategory name="qadim3-PATRIARCH-apm" DisplayName="Qadim-PATRIARCH-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\qadim3-PATRIARCH-apm.png"/>
+      <MarkerCategory name="qadim4-MATRIARCH-apm" DisplayName="Qadim-MATRIARCH-apm" iconSize="1.0" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.0" resetLength="60" iconFile="Data\APM\qadim4-MATRIARCH-apm.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="RaidHitboxes" DisplayName="Hitboxes">
+      <MarkerCategory name="HitboxVG" DisplayName="Hitbox Vale Guardian" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="4.3" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-VG.png"/>
+      <MarkerCategory name="HitboxGorseval" DisplayName="Hitbox Gorseval" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="2.7" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Gorseval.png"/>
+      <MarkerCategory name="HitboxSabetha" DisplayName="Hitbox Sabetha" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="4.3" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Sabetha.png"/>
+      <MarkerCategory name="HitboxSlothasor" DisplayName="Hitbox Slothasor" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="2.2" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Slothasor.png"/>
+      <MarkerCategory name="HitboxMatthias" DisplayName="Hitbox Matthias" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="4.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Matthias.png"/>
+      <MarkerCategory name="HitboxKC" DisplayName="Hitbox Keep Construct" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="3.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-KC.png"/>
+      <MarkerCategory name="HitboxXERA" DisplayName="Hitbox Xera" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Xera.png"/>
+      <MarkerCategory name="HitboxCairn" DisplayName="Hitbox Cairn" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Cairn.png"/>
+      <MarkerCategory name="HitboxMO" DisplayName="Hitbox Mursaat Overseer" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-MO.png"/>
+      <MarkerCategory name="HitboxSamarog" DisplayName="Hitbox Samarog" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Samarog.png"/>
+      <MarkerCategory name="HitboxDeimos" DisplayName="Hitbox Deimos" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="3.3" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Deimos.png"/>
+      <MarkerCategory name="HitboxSoullessHorror" DisplayName="Hitbox Soulless Horror" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="4.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-SoullessHorror.png"/>
+      <MarkerCategory name="HitboxBrokenKing" DisplayName="Hitbox Broken King" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-BrokenKing.png"/>
+      <MarkerCategory name="HitboxEaterOfSouls" DisplayName="Hitbox Eater Of Souls" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="3.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-EaterOfSouls.png"/>
+      <MarkerCategory name="HitboxEyeOfJudgement" DisplayName="Hitbox Eye Of Judgement" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-EyeOfJudgement.png"/>
+      <MarkerCategory name="HitboxDhuum" DisplayName="Hitbox Dhuum" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="4.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Dhuum.png"/>
+      <MarkerCategory name="HitboxConjuredAmalgamate" DisplayName="Hitbox Conjured Amalgamate" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="3.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-ConjuredAmalgamate.png"/>
+      <MarkerCategory name="HitboxNikare&Kenut" DisplayName="Hitbox Nikare & Kenut" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="4.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Nikare&Kenut.png"/>
+      <MarkerCategory name="HitboxQadim" DisplayName="Hitbox Qadim" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="4.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-Qadim.png"/>
+      <MarkerCategory name="HitboxQadimMinions" DisplayName="Hitbox QadimMinions" iconSize="0.80" behavior="0" alpha="1.00" fadeNear="900" fadeFar="1000" heightOffset="1.5" resetLength="60" iconFile="Data\Hitboxes\Raids\Hitbox-QadimMinions.png"/>
+  </MarkerCategory>
+  <MarkerCategory name="MetaMarkers" DisplayName="Meta Markers">
+    <MarkerCategory name="MetaStatMarkers" DisplayName="Meta Stat Markers">
+      <MarkerCategory name="MetaPowerMarker" DisplayName="Power Marker" iconSize="1.0" behavior="0" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\MetaPowerMarker.png"/>
+      <MarkerCategory name="MetaCondiMarker" DisplayName="Condi Marker" iconSize="1.0" behavior="0" alpha="1.0" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\MetaCondiMarker.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="TankMarkers" DisplayName="Tank Markers">
+      <MarkerCategory name="TankFixateMarkers" DisplayName="Tank Fixate Markers">
+        <MarkerCategory name="TankMarker-Toughness" DisplayName="TankMarker-Toughness" iconSize="1.00" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\TankMarker-Toughness.png"/>
+        <MarkerCategory name="TankMarker-RandomFixate" DisplayName="TankMarker-RandomFixate" iconSize="1.00" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\TankMarker-RandomFixate.png"/>
+        <MarkerCategory name="TankMarker-DualFixate" DisplayName="TankMarker-DualFixate" iconSize="1.00" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\TankMarker-DualFixate.png"/>
+        <MarkerCategory name="TankMarker-RangeClose" DisplayName="TankMarker-RangeClose" iconSize="1.00" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\TankMarker-RangeClose.png"/>
+        <MarkerCategory name="TankMarker-RangeFar" DisplayName="TankMarker-RangeFar" iconSize="1.00" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\TankMarker-RangeFar.png"/>
+        <MarkerCategory name="TankMarker-SkillClaim" DisplayName="TankMarker-SkillClaim" iconSize="1.00" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\TankMarker-SkillClaim.png"/>
+        <MarkerCategory name="TankMarker-None" DisplayName="TankMarker-None" iconSize="1.00" behavior="0" alpha="1.00" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\MetaMarkers\TankMarker-None.png"/>
+      </MarkerCategory>
+      <MarkerCategory name="TankSpots" DisplayName="Tank Spots">
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <MarkerCategory name="Markers" DisplayName="Markers">
+    <MarkerCategory name="NumericMarkers" DisplayName="Numeric Markers">
+      <MarkerCategory name="Marker1" DisplayName="Marker1" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker1.png"/>
+      <MarkerCategory name="Marker2" DisplayName="Marker2" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker2.png"/>
+      <MarkerCategory name="Marker3" DisplayName="Marker3" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker3.png"/>
+      <MarkerCategory name="Marker4" DisplayName="Marker4" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker4.png"/>
+      <MarkerCategory name="Marker5" DisplayName="Marker5" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker5.png"/>
+      <MarkerCategory name="Marker6" DisplayName="Marker6" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker6.png"/>
+      <MarkerCategory name="Marker7" DisplayName="Marker7" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker7.png"/>
+      <MarkerCategory name="Marker8" DisplayName="Marker8" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker8.png"/>
+      <MarkerCategory name="Marker9" DisplayName="Marker9" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker9.png"/>
+      <MarkerCategory name="Marker10" DisplayName="Marker10" iconSize="1.0" behavior="0" alpha="0.80" fadeNear="1000" fadeFar="1100" heightOffset="1.5" resetLength="60" iconFile="Data\Arrows\NumberMarkers\Marker10.png"/>
+    </MarkerCategory>
+    <MarkerCategory name="StandardMarkers" DisplayName="Standard Markers">
+      <MarkerCategory name="CrosshairMarkerBlack" DisplayName="Crosshair-Black" iconSize="0.40" behavior="0" alpha="1.00" fadeNear="2000" fadeFar="2225" heightOffset="0" resetLength="60" iconFile="Data\Arrows\CrosshairMarker-Black.png"/>
+      <MarkerCategory name="CrosshairMarkerWhite" DisplayName="Crosshair-White" iconSize="0.40" behavior="0" alpha="1.00" fadeNear="2000" fadeFar="2225" heightOffset="0" resetLength="60" iconFile="Data\Arrows\CrosshairMarker-White.png"/>
+      <MarkerCategory name="CrosshairArrowMarker-Start-Black" DisplayName="Teleport Marker Start-Black" iconSize="0.40" behavior="0" alpha="1.00" fadeNear="2000" fadeFar="2225" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerUP-black.png"/>
+      <MarkerCategory name="CrosshairArrowMarker-End-Black" DisplayName="Teleport Marker End-Black" iconSize="0.40" behavior="0" alpha="1.00" fadeNear="2000" fadeFar="2225" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerDOWN-black.png"/>
+      <MarkerCategory name="CrosshairArrowMarker-Start-White" DisplayName="Teleport Marker Start-White" iconSize="0.40" behavior="0" alpha="1.00" fadeNear="2000" fadeFar="2225" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerUP-white.png"/>
+      <MarkerCategory name="CrosshairArrowMarker-End-White" DisplayName="Teleport Marker End-White" iconSize="0.40" behavior="0" alpha="1.00" fadeNear="2000" fadeFar="2225" heightOffset="0" resetLength="60" iconFile="Data\Arrows\TeleportMarkerDOWN-white.png"/>
+    </MarkerCategory>
+  </MarkerCategory>
+</MarkerCategory>
+-<POIs>
+   <POI GUID="AAAAAAAAAAAAAAAAAAAAAA==" type="fractals.leapandjumpspots.leapstart" zpos="0" ypos="0" xpos="0" MapID="0"/>
+   <POI GUID="GML1pgI30kCqk60hrWXiyw==" type="fractals.slayingsigil.serpentslaying" zpos="118.818" ypos="2.67353" xpos="162.991" MapID="1177"/>
+   <POI GUID="WPf6qXNW9UaX2XHM2VAiQA==" type="fractals.day_night.daytime_face" zpos="552.265" ypos="2.56569" xpos="392.798" MapID="950"/>
+   <POI GUID="mcWQbx17Uk+MTO5XZOBGrg==" type="fractals.basicsigil.impactsigil" zpos="552.78" ypos="2.56458" xpos="393.767" MapID="950"/>
+   <POI GUID="gYX4yX2nDkiFExVN8Mgs4g==" type="fractals.basicsigil.forcesigil" zpos="552.048" ypos="2.563" xpos="392.091" MapID="950"/>
+   <POI GUID="0u9OTlgMVUiuBAyNNsAJEQ==" type="fractals.utility.slayingpotions.serpentpotion" zpos="-565.978" ypos="9.14324" xpos="-417.344" MapID="951"/>
+   <POI GUID="NejRZo/dt0yb98OlZCl0WA==" type="fractals.slayingsigil.serpentslaying" zpos="-564.488" ypos="9.79481" xpos="-417.941" MapID="951"/>
+   <POI GUID="7ekLWXkMDEWh8cETp58Vhg==" type="fractals.basicsigil.forcesigil" zpos="-563.065" ypos="9.52473" xpos="-417.988" MapID="951"/>
+   <POI GUID="QyMxFJY000OBYyUZ3CZ5gg==" type="fractals.day_night.daytime_face" zpos="-564.38" ypos="9.79837" xpos="-417.766" MapID="951"/>
+   <POI GUID="iehNL8HVcEGGo6L7RGvkuA==" type="fractals.day_night.nighttime_face" zpos="121.303" ypos="1.5036" xpos="68.3629" MapID="949"/>
+   <POI GUID="AyMraWaTB0KsSwmgLHBkdw==" type="fractals.basicsigil.nightsigil" zpos="121.236" ypos="1.47174" xpos="67.627" MapID="949"/>
+   <POI GUID="bLeoFR0vnUGGsClsrTOaJQ==" type="fractals.basicsigil.impactsigil" zpos="121.424" ypos="1.44501" xpos="69.4512" MapID="949"/>
+   <POI GUID="Jnna3uovZkuIO+NiEYQ7rw==" type="fractals.day_night.daytime_face" zpos="-764.363" ypos="747.368" xpos="-809.378" MapID="947"/>
+   <POI GUID="+gow2hoanE+iLZNMuYJKgQ==" type="fractals.basicsigil.impactsigil" zpos="-765.391" ypos="747.336" xpos="-809.009" MapID="947"/>
+   <POI GUID="N+ZQ3j/Y/Ua59x6jR/SKTA==" type="fractals.basicsigil.forcesigil" zpos="-763.458" ypos="747.398" xpos="-809.553" MapID="947"/>
+   <POI GUID="zRVFgQk2y0eDP8dVN9zclw==" type="fractals.utility.slayingpotions.inquestpotion" zpos="-679.494" ypos="778.763" xpos="-743.345" MapID="947"/>
+   <POI GUID="Gx3m68K6AUCLkBH2VcVDRg==" type="fractals.slayingsigil.inquestslaying" zpos="-678.66" ypos="778.858" xpos="-744.302" MapID="947"/>
+   <POI GUID="kRfcRCIrKkiwRz97v1mmnA==" type="fractals.basicsigil.impactsigil" zpos="-677.844" ypos="778.954" xpos="-745.283" MapID="947"/>
+   <POI GUID="yBiRj3NcAUSfZF7Bc5DkeQ==" type="fractals.day_night.nighttime_face" zpos="552.761" ypos="655.88" xpos="683.087" MapID="958"/>
+   <POI GUID="1OuNy1mY3U+cNw09s/ZQBg==" type="fractals.basicsigil.nightsigil" zpos="551.904" ypos="655.746" xpos="683.263" MapID="958"/>
+   <POI GUID="Y8/xLCsRakGsHQ5SqrTVBQ==" type="fractals.basicsigil.impactsigil" zpos="553.6" ypos="656.021" xpos="682.934" MapID="958"/>
+   <POI GUID="ORvR8l41lkmKBBDWHlSBGg==" type="fractals.slayingsigil.dredgeslaying" zpos="406.659" ypos="18.7424" xpos="758.404" MapID="953"/>
+   <POI GUID="farMgpVO2k2dK084EemesA==" type="fractals.day_night.nighttime_face" zpos="406.659" ypos="18.7424" xpos="758.404" MapID="953"/>
+   <POI GUID="N9FyYE1+10+8YDtI2y6Mug==" type="fractals.basicsigil.nightsigil" zpos="407.623" ypos="18.8224" xpos="759.737" MapID="953"/>
+   <POI GUID="KC63kX9Nokyk1nQBTrrMfw==" type="fractals.utility.slayingpotions.dredgepotion" zpos="405.686" ypos="18.6623" xpos="757.079" MapID="953"/>
+   <POI GUID="a55jrGHVy0mtpGCOBbe2wA==" type="fractals.day_night.daytime_face" zpos="-25.9992" ypos="557.336" xpos="-38.6665" MapID="952"/>
+   <POI GUID="M+GrH4yfKkC4QQ0uP/mEqA==" type="fractals.slayingsigil.justiceslaying" zpos="-25.9992" ypos="557.336" xpos="-38.6665" MapID="952"/>
+   <POI GUID="LrTo7+Xo9EKnJ4b6CI5ttw==" type="fractals.basicsigil.impactsigil" zpos="-26.6026" ypos="557.103" xpos="-39.9787" MapID="952"/>
+   <POI GUID="sOP2XRIYSUqIjBTjCZ89nA==" type="fractals.utility.slayingpotions.outlawslaying" zpos="-25.3189" ypos="557.594" xpos="-37.1902" MapID="952"/>
+   <POI GUID="VJuQv9NmlESeaWti+f8xig==" type="fractals.utility.slayingpotions.scarletsarmypotion" zpos="144.512" ypos="254.926" xpos="226.983" MapID="955"/>
+   <POI GUID="+ziP1XinikeUIW/9YG05JA==" type="fractals.basicsigil.impactsigil" zpos="143.468" ypos="254.838" xpos="225.961" MapID="955"/>
+   <POI GUID="SwUvavh5mU2ORPPXNyFtKg==" type="fractals.basicsigil.forcesigil" zpos="142.274" ypos="254.756" xpos="224.833" MapID="955"/>
+   <POI GUID="S6G2Ebkyl0avYSjG+IiPww==" type="fractals.day_night.daytime_face" zpos="-254.584" ypos="312.5" xpos="44.5646" MapID="1290"/>
+   <POI GUID="DXHBGa59iUOxLAQ4osDFtA==" type="fractals.basicsigil.impactsigil" zpos="-255.476" ypos="312.5" xpos="44.7646" MapID="1290"/>
+   <POI GUID="W244wBaDt0eJULRkx7Fq8g==" type="fractals.basicsigil.forcesigil" zpos="-253.871" ypos="312.5" xpos="44.4001" MapID="1290"/>
+   <POI GUID="PpTPahXUGk+bc3Gy0XepQw==" type="fractals.day_night.nighttime_face" zpos="123.413" ypos="27.4805" xpos="-58.8392" MapID="948"/>
+   <POI GUID="yuahwButz0eweP4elDGj6Q==" type="fractals.basicsigil.nightsigil" zpos="123.413" ypos="27.4805" xpos="-58.8392" MapID="948"/>
+   <POI GUID="lIuqxsqoSEu55eMnQPUBSA==" type="fractals.slayingsigil.sonsofsvanirslaying" zpos="124.652" ypos="27.7085" xpos="-58.1074" MapID="948"/>
+   <POI GUID="XRsTqVuJ50+ZVmDESyaxRg==" type="fractals.utility.slayingpotions.sonsofsvanirpotion" zpos="122.16" ypos="27.3142" xpos="-59.6455" MapID="948"/>
+   <POI GUID="1NhbPOnUdUi5cnj+H3pM9Q==" type="fractals.day_night.nighttime_face" zpos="232.665" ypos="32.1656" xpos="31.0976" MapID="1267"/>
+   <POI GUID="UEdbjNi7PE+fy5QkF6Rucw==" type="fractals.basicsigil.nightsigil" zpos="232.492" ypos="32.4793" xpos="30.2824" MapID="1267"/>
+   <POI GUID="YMv/KRtIAEWOZqb1NNqjYg==" type="fractals.basicsigil.impactsigil" zpos="233.261" ypos="32.0284" xpos="31.6659" MapID="1267"/>
+   <POI GUID="rgNBw0FlpkipsXDjeZ43hw==" type="fractals.day_night.daytime_face" zpos="-60.3032" ypos="559.266" xpos="-262.28" MapID="1164"/>
+   <POI GUID="O8iTKPEVgk6IsJ0dKs+CEg==" type="fractals.basicsigil.impactsigil" zpos="-60.7552" ypos="559.601" xpos="-261.559" MapID="1164"/>
+   <POI GUID="M5rOVkPe8UCGYkesCCubUA==" type="fractals.basicsigil.forcesigil" zpos="-60.032" ypos="559.065" xpos="-262.712" MapID="1164"/>
+   <POI GUID="QuP7en/9vE6cp1oSCGPM3g==" type="fractals.basicsigil.impactsigil" zpos="-168.665" ypos="209.462" xpos="-201.925" MapID="959"/>
+   <POI GUID="ChFzcmjfYEOv9fuHWyUWuQ==" type="fractals.basicsigil.forcesigil" zpos="-167.9" ypos="209.51" xpos="-200.679" MapID="959"/>
+   <POI GUID="CbGaTfSidk+yfNIi3CSVPQ==" type="fractals.day_night.daytime_face" zpos="-168.665" ypos="209.463" xpos="-201.925" MapID="959"/>
+   <POI GUID="ufziBwQqvEW2sSMKCiRLog==" type="fractals.utility.slayingpotions.scarletsarmypotion" zpos="-169.334" ypos="209.421" xpos="-203.016" MapID="959"/>
+   <POI GUID="6hbUGjpX4kqxATdqn1D6Vg==" type="fractals.day_night.nighttime_face" zpos="-733.918" ypos="82.1394" xpos="379.561" MapID="954"/>
+   <POI GUID="OnZTmDJrL0WMuqh75rQnFw==" type="fractals.basicsigil.nightsigil" zpos="-733.918" ypos="82.1394" xpos="379.561" MapID="954"/>
+   <POI GUID="wne2kqkDs0+GDXPA7YW1Zw==" type="fractals.slayingsigil.grawlslaying" zpos="-735.316" ypos="81.9902" xpos="379.099" MapID="954"/>
+   <POI GUID="7TNlkiZ/REucraSt/HLEpQ==" type="fractals.utility.slayingpotions.grawlpotion" zpos="-732.504" ypos="82.2065" xpos="380.024" MapID="954"/>
+   <POI GUID="+RAHO5ZXlUuNSWDSCvWKEQ==" type="fractals.basicsigil.nightsigil" zpos="-802.23" ypos="20.1022" xpos="219.295" MapID="954"/>
+   <POI GUID="uyawQ/osUEqcxswR5owdPQ==" type="fractals.slayingsigil.demonslaying" zpos="-803.503" ypos="20.2711" xpos="219.257" MapID="954"/>
+   <POI GUID="fc7KkZtluEGg3DxZjZRTlQ==" type="fractals.utility.slayingpotions.demonpotion" zpos="-804.6" ypos="20.2127" xpos="219.238" MapID="954"/>
+   <POI GUID="38rIlAoQiEG0O6uhXUUYSw==" type="fractals.basicsigil.forcesigil" zpos="-24.924" ypos="49.3516" xpos="-78.2818" MapID="960"/>
+   <POI GUID="mCQhv+uDjECUNRjwlP7XoA==" type="fractals.day_night.daytime_face" zpos="95.7668" ypos="-0.154623" xpos="31.126" MapID="956"/>
+   <POI GUID="Zsg6Yk5CBkiHn0x3THrmqQ==" type="fractals.basicsigil.impactsigil" zpos="95.7198" ypos="-0.154101" xpos="31.0814" MapID="956"/>
+   <POI GUID="Wo1T0YYZIUuPIHNPMtCmpQ==" type="fractals.basicsigil.forcesigil" zpos="94.1881" ypos="-0.246841" xpos="30.9596" MapID="956"/>
+   <POI GUID="G30o4xtTPkGj0jLctNxsaw==" type="fractals.utility.slayingpotions.scarletsarmypotion" zpos="97.412" ypos="0.143478" xpos="30.765" MapID="956"/>
+   <POI GUID="qzyNgdqDBkSMnX1fbXhc+Q==" type="fractals.slayingsigil.flamelegionslaying" zpos="-73.9688" ypos="0.465512" xpos="57.8572" MapID="957"/>
+   <POI GUID="BOSymYTNkEeAzVoYEhmVXg==" type="fractals.day_night.daytime_face" zpos="-73.9688" ypos="0.465512" xpos="57.8572" MapID="957"/>
+   <POI GUID="sOCOj++MmECIk/pZuwCI2Q==" type="fractals.utility.slayingpotions.flamelegionpotion" zpos="-72.9355" ypos="0.465512" xpos="58.8929" MapID="957"/>
+   <POI GUID="H6A4GYInEEqlEDKBPopsYQ==" type="fractals.basicsigil.impactsigil" zpos="-75.0032" ypos="0.465512" xpos="56.8229" MapID="957"/>
+   <POI GUID="m2lLvrsGVE6rNnZrASYQvQ==" type="fractals.slayingsigil.destroyerslaying" zpos="-31.794" ypos="21.8557" xpos="80.3855" MapID="957"/>
+   <POI GUID="TOMVu+kSG0Kj3FyTvZsTxQ==" type="fractals.utility.slayingpotions.destroyerpotion" zpos="-33.5773" ypos="22.401" xpos="80.2919" MapID="957"/>
+   <POI GUID="IqU9wenQ3ES9wEzSuH+9yA==" type="fractals.basicsigil.forcesigil" zpos="83.9716" ypos="21.9574" xpos="63.1076" MapID="957"/>
+   <POI GUID="CH/KVRbkW0GMMqFBKJ7pWA==" type="fractals.basicsigil.impactsigil" zpos="83.1937" ypos="21.9593" xpos="64.2225" MapID="957"/>
+   <POI GUID="Rzob5csQEEWINLXDwzvNNw==" type="fractals.basicsigil.forcesigil" zpos="-1.43703" ypos="18.6867" xpos="-20.8097" MapID="957"/>
+   <POI GUID="68EkwxvkSUW7+VLenA8fdQ==" type="fractals.basicsigil.impactsigil" zpos="-2.99414" ypos="19.0028" xpos="-21.1293" MapID="957"/>
+   <POI GUID="VDRSRDkMxUirDbuoSTqycQ==" type="fractals.day_night.daytime_face" zpos="149.126" ypos="61.6673" xpos="-24.155" MapID="1177"/>
+   <POI GUID="WR667zB25k+97UkdWeoFZA==" type="fractals.basicsigil.impactsigil" zpos="149.126" ypos="61.6673" xpos="-24.155" MapID="1177"/>
+   <POI GUID="/4pdeSKvmUafDLMKuvx0Vg==" type="fractals.utility.slayingpotions.scarletsarmypotion" zpos="148.109" ypos="61.8249" xpos="-25.1967" MapID="1177"/>
+   <POI GUID="Atq31fALwEOC+R+qjy+laA==" type="fractals.basicsigil.forcesigil" zpos="149.94" ypos="61.7972" xpos="-22.9785" MapID="1177"/>
+   <POI GUID="2hZyyzEDNESnQ8MrWa2w/w==" type="fractals.basicsigil.impactsigil" zpos="154.196" ypos="23.4191" xpos="45.7839" MapID="1177"/>
+   <POI GUID="q/J+VoCK50SRK97EkNb5FQ==" type="fractals.day_night.daytime_face" zpos="452.92" ypos="120.744" xpos="-556.894" MapID="1205"/>
+   <POI GUID="4Cdm1pgb4UOFuawzJ5LACg==" type="fractals.day_night.nighttime_face" zpos="450.931" ypos="120.534" xpos="-556.573" MapID="1205"/>
+   <POI GUID="0VmQ4oyk0UeKsuItkXOqgA==" type="fractals.basicsigil.impactsigil" zpos="279.979" ypos="145.447" xpos="-97.2765" MapID="1156"/>
+   <POI GUID="yDFq80ju00C7vjolqcs7vg==" type="raids.actionsperminute.w1.vg_apm" zpos="-573.963" ypos="58.7599" xpos="-121.181" MapID="1062"/>
+   <POI GUID="mIuc5pPnp0yXbP7JpFvd7A==" type="raids.actionsperminute.w1.vg2_green_apm" zpos="-573.963" ypos="58.7599" xpos="-121.181" MapID="1062"/>
+   <POI GUID="9/8pGH3FqEqCNjXc8M3IcA==" type="raids.actionsperminute.w1.vg3_blue_apm" zpos="-574.004" ypos="58.6991" xpos="-118.807" MapID="1062"/>
+   <POI GUID="PR5EGj3JQkq3pmwMRHaUbQ==" type="raids.actionsperminute.w1.gorse_apm" zpos="-106.107" ypos="51.0771" xpos="-48.256" MapID="1062"/>
+   <POI GUID="dxqg6KFIPEaylqDYeugxsg==" type="raids.actionsperminute.w1.sabetha_apm" zpos="140.928" ypos="71.5212" xpos="-80.844" MapID="1062"/>
+   <POI GUID="ZoM4qT9l7kCOpJhQDaNsVw==" type="raids.actionsperminute.w1.sab2_knuckles_apm" zpos="140.928" ypos="71.5212" xpos="-80.844" MapID="1062"/>
+   <POI GUID="3h/CpzPoBE+wIYfMxeWm1Q==" type="raids.actionsperminute.w1.sab1_kernan_apm" zpos="139.277" ypos="71.6227" xpos="-79.4029" MapID="1062"/>
+   <POI GUID="YN22PdL3lUKZR1DPCVTZTg==" type="raids.actionsperminute.w1.sab3_karde_apm" zpos="142.669" ypos="71.4629" xpos="-82.1819" MapID="1062"/>
+   <POI GUID="5fAQU7bBnUm7r3M/ViXi8g==" type="raids.w2.slothasorshrooms.marker1" zpos="24.936" ypos="4.86162" xpos="208.815" MapID="1149"/>
+   <POI GUID="vLnuslcIaUuiByZj2CtyDw==" type="raids.w2.slothasorshrooms.marker2" zpos="-10.0337" ypos="2.42121" xpos="174.447" MapID="1149"/>
+   <POI GUID="N36QjEkgAEy2qlI1hoIUZQ==" type="raids.w2.slothasorshrooms.marker4" zpos="-13.6849" ypos="-0.171456" xpos="225.608" MapID="1149"/>
+   <POI GUID="sLeddfMZi0izzLOHl+jd4w==" type="raids.w2.slothasorshrooms.marker3" zpos="-36.0403" ypos="0.83988" xpos="193" MapID="1149"/>
+   <POI GUID="o+1vFs49j0Cn9lgWXFnNuQ==" type="raids.actionsperminute.w2.slothasor_apm" zpos="41.1528" ypos="9.80749" xpos="214.943" MapID="1149"/>
+   <POI GUID="dYXT+WN9U0K4DRz261x1YA==" type="raids.actionsperminute.w2.trio2_zane_apm" zpos="-123.602" ypos="64.7197" xpos="95.828" MapID="1149"/>
+   <POI GUID="wwRNm9tM10SaFUGIfkw2Ww==" type="raids.actionsperminute.w2.trio3_narella_apm" zpos="-122.237" ypos="64.9202" xpos="93.6717" MapID="1149"/>
+   <POI GUID="yO7cIc+dBEyW1CT80Pal1w==" type="raids.actionsperminute.w2.trio1_berg_apm" zpos="-125.122" ypos="64.4485" xpos="97.8963" MapID="1149"/>
+   <POI GUID="SHMlMP0YqEqTlAK3qm1CJg==" type="raids.w2.matthiaswells.marker1" zpos="126.37" ypos="131.625" xpos="-173.963" MapID="1149"/>
+   <POI GUID="SZ5jdLVyQUyKuBN7NZaANA==" type="raids.w2.matthiaswells.marker2" zpos="173.071" ypos="131.625" xpos="-174.281" MapID="1149"/>
+   <POI GUID="+TGpQwrGME+yRHObxJTOyg==" type="raids.w2.matthiaswells.marker3" zpos="173.376" ypos="131.625" xpos="-127.579" MapID="1149"/>
+   <POI GUID="zTFkVnoX6UufcmMFQqgg2w==" type="raids.w2.matthiaswells.marker4" zpos="126.636" ypos="131.625" xpos="-127.353" MapID="1149"/>
+   <POI GUID="4yR31yDWDkuAi5/8IDmiKA==" type="raids.actionsperminute.w2.matthias_apm" zpos="111.992" ypos="131.523" xpos="-155.16" MapID="1149"/>
+   <POI GUID="rxWUNx6o/kmrkx/tt89Ywg==" type="raids.actionsperminute.w3.mcleod_apm" zpos="451.514" ypos="76.999" xpos="167.836" MapID="1156"/>
+   <POI GUID="vTg17bkLOk2Jebd6Z0fuAw==" type="raids.actionsperminute.w4.cairn_apm" zpos="48.6669" ypos="49.7955" xpos="439.426" MapID="1188"/>
+   <POI GUID="ln+wHYbolUWX+QjBQ5ZtxA==" type="raids.actionsperminute.w4.samarog1_guldhem_apm" zpos="81.7199" ypos="129.504" xpos="-58.9446" MapID="1188"/>
+   <POI GUID="3f19/rCmRkK4PxuuHtHHhQ==" type="raids.actionsperminute.w4.samarog_apm" zpos="81.7199" ypos="129.504" xpos="-58.9446" MapID="1188"/>
+   <POI GUID="NTkARmtb7EqUNtQJqDVtQg==" type="raids.actionsperminute.w5.desmina_apm" zpos="0.892684" ypos="40.4721" xpos="-324.072" MapID="1264"/>
+   <POI GUID="ObrUSkt3Oky59JS/985vSA==" type="raids.w5.dhuumgreen1.marker1" zpos="30.8823" ypos="158.616" xpos="429.044" MapID="1264"/>
+   <POI GUID="a4gD7pxxo0iLWR8kFt9k7w==" type="raids.w5.dhuumgreen1.marker2" zpos="-6.71067" ypos="158.641" xpos="377.791" MapID="1264"/>
+   <POI GUID="bDFwd2MuE0ic8fc7Zywbgw==" type="raids.w5.dhuumgreen1.marker4" zpos="-15.1233" ypos="158.612" xpos="404.92" MapID="1264"/>
+   <POI GUID="Ta85bND5HUqVRCzEhAC6GA==" type="raids.w5.dhuumgreen1.marker5" zpos="45.1201" ypos="158.595" xpos="378.915" MapID="1264"/>
+   <POI GUID="O1B0w3cjiU2VA3Fshiu2Gw==" type="raids.w5.dhuumgreen1.marker6" zpos="2.10039" ypos="158.669" xpos="427.881" MapID="1264"/>
+   <POI GUID="KEINcPpj8kaToSiMfm5z7A==" type="raids.w5.dhuumgreen2.marker1" zpos="1.9808" ypos="158.654" xpos="428.011" MapID="1264"/>
+   <POI GUID="GySHD3qLvkGb/ef34cVuag==" type="raids.w5.dhuumgreen2.marker2" zpos="19.4136" ypos="158.606" xpos="365.539" MapID="1264"/>
+   <POI GUID="AEFvYrJFzE+gHLaOjR965g==" type="raids.w5.dhuumgreen2.marker3" zpos="30.9724" ypos="158.59" xpos="429.246" MapID="1264"/>
+   <POI GUID="SKe7sdy+U02147v+dj2DNQ==" type="raids.w5.dhuumgreen2.marker4" zpos="-6.72093" ypos="158.634" xpos="377.661" MapID="1264"/>
+   <POI GUID="c/WIe1g5DEC0vxkwBvSQNw==" type="raids.w5.dhuumgreen2.marker6" zpos="-14.8084" ypos="158.661" xpos="404.893" MapID="1264"/>
+   <POI GUID="Ii4UxGGugUe/8QBwTmg13w==" type="raids.w5.dhuumgreen2.marker5" zpos="50.2043" ypos="158.521" xpos="407.642" MapID="1264"/>
+   <POI GUID="BCn7HaP8qkeGwtN1DOwRMA==" type="raids.w5.dhuumgreen3.marker1" zpos="-14.9436" ypos="158.618" xpos="405.023" MapID="1264"/>
+   <POI GUID="SvuX2IxavE2OM/ffS9fOQA==" type="raids.w5.dhuumgreen3.marker2" zpos="45.0298" ypos="158.615" xpos="378.918" MapID="1264"/>
+   <POI GUID="dsREDkNPSUSPwUZg0SMjHA==" type="raids.w5.dhuumgreen3.marker3" zpos="1.86247" ypos="158.643" xpos="427.978" MapID="1264"/>
+   <POI GUID="DrTZECzDGUuIjBumv5zLVA==" type="raids.w5.dhuumgreen3.marker4" zpos="19.4036" ypos="158.654" xpos="365.799" MapID="1264"/>
+   <POI GUID="4uzyUlaYvk60G2m5zqz5QA==" type="raids.w5.dhuumgreen3.marker5" zpos="30.8502" ypos="158.601" xpos="429.314" MapID="1264"/>
+   <POI GUID="tgnnENslRkikC9AM/0otBA==" type="raids.w5.dhuumgreen3.marker6" zpos="-6.70759" ypos="158.633" xpos="377.751" MapID="1264"/>
+   <POI GUID="s2GYWetP302YL1xKabPceQ==" type="raids.actionsperminute.w6.twin_nikare_apm" zpos="-158.673" ypos="38.04" xpos="360.431" MapID="1303"/>
+   <POI GUID="mybU2RVvV0O8v/TB+eDPCQ==" type="raids.actionsperminute.w6.twin_kenut_apm" zpos="-158.598" ypos="38.04" xpos="373.694" MapID="1303"/>
+   <POI GUID="7x2ubSfjAEK3k1bMr7LUjw==" type="raids.actionsperminute.w6.qadim_apm" zpos="313.917" ypos="120.168" xpos="-50.3203" MapID="1303"/>
+   <POI GUID="iXwIoKA9Y0i2xBnqNjejdg==" type="raids.actionsperminute.w6.qadim2_destroyer_apm" zpos="312.637" ypos="120.168" xpos="-50.2884" MapID="1303"/>
+   <POI GUID="SJ3NeUTHL0uWXaAl0eXcgw==" type="raids.actionsperminute.w6.qadim1_hydra_apm" zpos="310.26" ypos="120.168" xpos="-50.2293" MapID="1303"/>
+   <POI GUID="wNAl5YzZcUaEXeilKL+enA==" type="raids.actionsperminute.w6.qadim3_patriarch_apm" zpos="315.014" ypos="120.168" xpos="-50.3476" MapID="1303"/>
+   <POI GUID="Kybg+P+pPE6b3FfInH+VKQ==" type="raids.actionsperminute.w6.qadim4_matriarch_apm" zpos="317.208" ypos="120.168" xpos="-50.4022" MapID="1303"/>
+   <POI GUID="HoEd+f3jeES6G1gNYXtxHA==" type="fractals.utility.slayingpotions.scarletsarmypotion" zpos="-425.731" ypos="89.5633" xpos="-359.908" MapID="1205"/>
+   <POI GUID="belcnqD4fUGSqN9DjMU5WA==" type="fractals.slayingsigil.serpentslaying" zpos="-97.2467" ypos="41.1848" xpos="73.0125" MapID="1177"/>
+   <POI GUID="7bIGeDo8XUiyCjgWWW5/mA==" type="fractals.basicsigil.impactsigil" zpos="-98.8529" ypos="41.4723" xpos="72.8089" MapID="1177"/>
+   <POI GUID="REz8mm7kxkWPfzTMn8KFtA==" type="fractals.basicsigil.impactsigil" zpos="-27.8525" ypos="44.5701" xpos="44.29" MapID="1177"/>
+   <POI GUID="IvCN16+6NE2GbeICxGLaNg==" type="fractals.slayingsigil.serpentslaying" zpos="-28.0421" ypos="44.7272" xpos="42.3983" MapID="1177"/>
+   <POI GUID="5P2jWYE+FkqOnF9vtMBDmg==" type="fractals.slayingsigil.elementalslaying" zpos="-25.2411" ypos="266.835" xpos="-52.6877" MapID="1290"/>
+   <POI GUID="JId44WsbP02toFU9pQPz8A==" type="fractals.utility.slayingpotions.elementalpotion" zpos="-25.0822" ypos="266.833" xpos="-54.4966" MapID="1290"/>
+   <POI GUID="lgkgdNKpf06lNxkmR7DHmQ==" type="raids.w1.sabethadirections.northmarker" zpos="114.163" ypos="62.8827" xpos="-126.648" MapID="1062"/>
+   <POI GUID="kNjMz/+AQ0SV8zY9w+LwSw==" type="raids.w1.sabethadirections.southmarker" zpos="53.378" ypos="62.8027" xpos="-132.864" MapID="1062"/>
+   <POI GUID="jtfnIu3nwkywqdZWGjHU2g==" type="raids.w1.sabethadirections.eastmarker" zpos="80.8217" ypos="62.8844" xpos="-98.71" MapID="1062"/>
+   <POI GUID="kpRvO8/fnkq1GE1yavDR1w==" type="raids.w1.sabethadirections.westmarker" zpos="87.1426" ypos="62.0674" xpos="-160.591" MapID="1062"/>
+   <POI GUID="fQ19ODWUUkWYeV8IzeXDCg==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="131.856" ypos="72.5374" xpos="-69.8567" MapID="1062"/>
+   <POI GUID="bzpjaDphsUGkOkKmAvYNWA==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_none" zpos="133.401" ypos="72.2894" xpos="-71.8795" MapID="1062"/>
+   <POI GUID="Ew58Neh2T02qAIn4dhcMRA==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="-120.05" ypos="51.0742" xpos="-48.709" MapID="1062"/>
+   <POI GUID="0e0Q2AgxbUili5GZJBmrbQ==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="-117.826" ypos="51.0436" xpos="-48.6693" MapID="1062"/>
+   <POI GUID="VGSzCsupsEusgOEoJpzNtA==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="-567.851" ypos="60.185" xpos="-117.893" MapID="1062"/>
+   <POI GUID="ENb78uxVs02WqznYMesXXQ==" type="raids.metamarkers.metastatmarkers.metacondimarker" zpos="-567.721" ypos="60.0755" xpos="-115.823" MapID="1062"/>
+   <POI GUID="GjRc+yQm3kKkVeEk8vzDpQ==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="-567.611" ypos="59.9804" xpos="-113.816" MapID="1062"/>
+   <POI GUID="yZIczZQIdkuVDq1mvSVWxw==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="42.7797" ypos="10.52" xpos="204.399" MapID="1149"/>
+   <POI GUID="XY0Hl+3nXkm0uXOwnSqKEg==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_randomfixate" zpos="43.1454" ypos="10.9213" xpos="202.27" MapID="1149"/>
+   <POI GUID="ATvM852wykmQyk9K66mSwg==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="-114.541" ypos="66.1494" xpos="87.0878" MapID="1149"/>
+   <POI GUID="gaOtL1JeJ0+4tz/y4rEXEA==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_none" zpos="-112.921" ypos="66.6578" xpos="85.7021" MapID="1149"/>
+   <POI GUID="+rioJRJCgEqGdQG9xQpMaw==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_none" zpos="112.489" ypos="131.523" xpos="-144.517" MapID="1149"/>
+   <POI GUID="ZE7dNGTSVkeYm2HzwnWztQ==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="112.45" ypos="131.523" xpos="-146.711" MapID="1149"/>
+   <POI GUID="PjzTKfuKUkmiqExhsuKXsA==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="452.956" ypos="77.3283" xpos="178.619" MapID="1156"/>
+   <POI GUID="eQNEPXf84kOjkMLSa+UaJA==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="272.811" ypos="149.659" xpos="-92.1277" MapID="1156"/>
+   <POI GUID="0vt0SPk2YUi7hlwV3JuVyg==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="272.901" ypos="149.596" xpos="-94.098" MapID="1156"/>
+   <POI GUID="dcan6+/h4kKs0G0sclyX1g==" type="raids.metamarkers.metastatmarkers.metacondimarker" zpos="34.4288" ypos="49.2936" xpos="438.617" MapID="1188"/>
+   <POI GUID="KMjQP3oEikG5eyPNkTQ69w==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="135.024" ypos="105.949" xpos="102.417" MapID="1188"/>
+   <POI GUID="zKilkmdF5kW8sKzJFw9l4w==" type="raids.actionsperminute.w4.mo_apm" zpos="124.971" ypos="105.782" xpos="102.515" MapID="1188"/>
+   <POI GUID="GsRv49uuZE6i1XQ7D2tDOA==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_skillclaim" zpos="132.998" ypos="105.978" xpos="102.49" MapID="1188"/>
+   <POI GUID="Jj3Wg+5w9kWgA/OSwIaoww==" type="raids.w4.samarogdoorkey.samarogdoorkey2" zpos="53.3796" ypos="99.5897" xpos="56.4675" MapID="1188"/>
+   <POI GUID="6osVOr3zX0KUIjGGdLoU1A==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_rangefar" zpos="74.1194" ypos="129.763" xpos="-58.6307" MapID="1188"/>
+   <POI GUID="zoRNaLOtck6Sy2e1qmWJ5g==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="76.1086" ypos="129.519" xpos="-58.7849" MapID="1188"/>
+   <POI GUID="sSKsKI+8mUOZWs5Njw5hFw==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="139.214" ypos="129.749" xpos="-135.105" MapID="1188"/>
+   <POI GUID="ihKx45crzESsCURSeRR/zg==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="139.871" ypos="129.624" xpos="-133.172" MapID="1188"/>
+   <POI GUID="CwYE9bSIzUa6d4gH3sf62A==" type="raids.actionsperminute.w4.deimos_apm" zpos="141.952" ypos="129.374" xpos="-126.751" MapID="1188"/>
+   <POI GUID="MV1hrk5fgE2AyFVs4oguUQ==" type="raids.actionsperminute.w4.deimos1_saul_apm" zpos="141.952" ypos="129.374" xpos="-126.751" MapID="1188"/>
+   <POI GUID="PT837Uy/tEuvD4iiPAbQpQ==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_rangefar" zpos="39.018" ypos="49.3092" xpos="439.209" MapID="1188"/>
+   <POI GUID="IhKFjJvi5k6WBrgEH/2LEQ==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="36.7291" ypos="49.1447" xpos="439.214" MapID="1188"/>
+   <POI GUID="tjgUCjmsr0GRmqnnewkDTA==" type="raids.metamarkers.metastatmarkers.metacondimarker" zpos="13.8373" ypos="41.2509" xpos="-331.063" MapID="1264"/>
+   <POI GUID="363WebUkx0+0z0sQrwVOtQ==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_dualfixate" zpos="11.8582" ypos="41.2288" xpos="-330.116" MapID="1264"/>
+   <POI GUID="jGrtuMHIakqlfpD+b0fspg==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="29.3696" ypos="159.604" xpos="344.272" MapID="1264"/>
+   <POI GUID="lNnExsEHC0KNsujFnugF1w==" type="raids.metamarkers.metastatmarkers.metacondimarker" zpos="27.4279" ypos="159.474" xpos="344.215" MapID="1264"/>
+   <POI GUID="qIyL1bMrzEaELDljypK+cw==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="25.4174" ypos="159.48" xpos="344.151" MapID="1264"/>
+   <POI GUID="JYAdUUguw0aACiBjboxz9Q==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="-152.582" ypos="99.9557" xpos="76.0491" MapID="1264"/>
+   <POI GUID="8s8cFUp4A0Czru1VGETOTw==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="-152.71" ypos="99.9557" xpos="78.4231" MapID="1264"/>
+   <POI GUID="OwjMHjMe9k28VTE0NQIiXw==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="199.293" ypos="112.611" xpos="163.799" MapID="1264"/>
+   <POI GUID="v8KtyBFU00KKQ97Y5pbFDQ==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="197.447" ypos="112.501" xpos="162.017" MapID="1264"/>
+   <POI GUID="GFPD4Zl3FEC6zk27zyeidw==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="-351.046" ypos="59.2336" xpos="-157.526" MapID="1303"/>
+   <POI GUID="Og0JHdE1I0uXmGVTWvgnNw==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_none" zpos="-353.409" ypos="59.2075" xpos="-157.216" MapID="1303"/>
+   <POI GUID="29WM4pgOcEubtK/Seahe/w==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="-166.951" ypos="37.9553" xpos="374.407" MapID="1303"/>
+   <POI GUID="NboAti0Y8Ea3iBoEt/9NgA==" type="raids.metamarkers.metastatmarkers.metacondimarker" zpos="-166.927" ypos="38.044" xpos="372.207" MapID="1303"/>
+   <POI GUID="p005AxUS8EO7YnNgng/xNg==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="321.081" ypos="120.168" xpos="-50.4344" MapID="1303"/>
+   <POI GUID="uOFpZNw+WkCgCQnU+uQwyw==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_rangeclose" zpos="322.91" ypos="120.168" xpos="-50.413" MapID="1303"/>
+   <POI GUID="as5mfTAVwkqiKsjb1DJs/Q==" type="fractals.stealthspots.stealthmarker" zpos="403.782" ypos="15.9928" xpos="747.925" MapID="953"/>
+   <POI GUID="e0vEk00Lgka+lV+2oGqtTA==" type="fractals.blinkspots.blinkstart_black" zpos="356.915" ypos="14.8217" xpos="668.488" MapID="953"/>
+   <POI GUID="LD7F5vlxUUWaotvV3+13MQ==" type="fractals.blinkspots.blinkstart_white" zpos="356.915" ypos="14.8217" xpos="668.488" MapID="953"/>
+   <POI GUID="+4OCWm/Z80S84oY9SIGYww==" type="fractals.blinkspots.blinkaim_black" zpos="366.843" ypos="37.9515" xpos="662.265" MapID="953"/>
+   <POI GUID="LEMmHCKUW0maG81LRQjx8Q==" type="fractals.blinkspots.blinkaim_white" zpos="366.843" ypos="37.9515" xpos="662.265" MapID="953"/>
+   <POI GUID="acuL569Ggk+L3HwF2yxISw==" type="fractals.stealthspots.stealthmarker" zpos="355.188" ypos="14.5104" xpos="691.866" MapID="953"/>
+   <POI GUID="dNuHrER+a0iU7sbZWxWkGg==" type="fractals.stealthspots.stealthmarker" zpos="292.571" ypos="38.4071" xpos="625.907" MapID="953"/>
+   <POI GUID="0pmwEv1+HkyxBaXnIbOE4Q==" type="fractals.portalspots.portalstart" zpos="-720.051" ypos="82.9271" xpos="321.851" MapID="954"/>
+   <POI GUID="rfgoUr31F0W5Wzf/MkpA6w==" type="fractals.portalspots.portalend" zpos="-666.341" ypos="54.5605" xpos="228.687" MapID="954"/>
+   <POI GUID="XeN+nHN5sUWz7fjYcYQb0Q==" type="fractals.stealthspots.stealthmarker" zpos="554.544" ypos="2.51657" xpos="384.138" MapID="950"/>
+   <POI GUID="nAaDgx3lXEmR7eutwZoW+w==" type="fractals.stealthspots.stealthmarker" zpos="-171.331" ypos="209.157" xpos="-187.395" MapID="959"/>
+   <POI GUID="7aBYuFlFbk+D1cr0sj9W7A==" type="fractals.stealthspots.stealthmarker" zpos="-78.246" ypos="185.581" xpos="-115.132" MapID="959"/>
+   <POI GUID="IwE+sKrbcUa0ksVfVqZHjg==" type="fractals.stealthspots.stealthmarker" zpos="-776.783" ypos="752.515" xpos="-812.384" MapID="947"/>
+   <POI GUID="1jNSunL600W4Psq8kwa1mw==" type="fractals.blinkspots.blinkstart_black" zpos="98.521" ypos="0.905516" xpos="-19.2806" MapID="956"/>
+   <POI GUID="6f5vR4e6Ok2aVKGxDjNZRQ==" type="fractals.blinkspots.blinkstart_white" zpos="98.521" ypos="0.905516" xpos="-19.2806" MapID="956"/>
+   <POI GUID="1g11/VWxPEGihrLGc5oApA==" type="fractals.blinkspots.blinkaim_black" zpos="97.3086" ypos="9.31782" xpos="-21.9631" MapID="956"/>
+   <POI GUID="PIuWiJLMMEGEvmCCY3TS/A==" type="fractals.blinkspots.blinkaim_white" zpos="97.3086" ypos="9.31782" xpos="-21.9631" MapID="956"/>
+   <POI GUID="H/oXE8d+OEmWwVy6S84HgQ==" type="fractals.blinkspots.blinkaim_white" zpos="90.9587" ypos="25.1675" xpos="-8.7457" MapID="956"/>
+   <POI GUID="h+QjIRvciEOB7LxvCSPY+w==" type="fractals.blinkspots.blinkaim_black" zpos="90.9587" ypos="25.1675" xpos="-8.7457" MapID="956"/>
+   <POI GUID="LdoFDMSryUyyxX2XZmWzxQ==" type="fractals.blinkspots.blinkstart_black" zpos="93.049" ypos="9.60884" xpos="-12.4304" MapID="956"/>
+   <POI GUID="EMaQak7GPU+C9b3xUp1NhQ==" type="fractals.blinkspots.blinkstart_white" zpos="93.049" ypos="9.60884" xpos="-12.4304" MapID="956"/>
+   <POI GUID="TnT4tIRWUU2tKijX6YFk+Q==" type="fractals.ggspots.ggindicator" zpos="108.403" ypos="1.36727" xpos="-2.92272" MapID="956"/>
+   <POI GUID="uVGIpk3Ny0WFWKI4x/LxnA==" type="fractals.portalspots.portalstart" zpos="-152.899" ypos="209.264" xpos="-197.474" MapID="959"/>
+   <POI GUID="af+5AgIBwE2e/oYxk6pvVA==" type="fractals.portalspots.portalend" zpos="-94.8771" ypos="133.926" xpos="-165.342" MapID="959"/>
+   <POI GUID="m4OGQMJyKUezS3jAn5mbvg==" type="fractals.ggspots.ggindicator" zpos="-724.277" ypos="54.809" xpos="194.757" MapID="954"/>
+   <POI GUID="TRV/Bi9kpkC8895VZOmAow==" type="fractals.ggspots.ggindicator" zpos="-720.037" ypos="52.8046" xpos="161.472" MapID="954"/>
+   <POI GUID="X9NYbZuMBkyD4LwC9XeMUg==" type="fractals.leapandjumpspots.leapstart" zpos="-805.227" ypos="29.3271" xpos="135.809" MapID="954"/>
+   <POI GUID="+mOa7mDM8UyOVXORWUsqrQ==" type="fractals.portalspots.portalstart" zpos="-67.4107" ypos="0.454429" xpos="65.2199" MapID="957"/>
+   <POI GUID="lSrgoo9g0ES8ffDfOhlwNg==" type="fractals.blinkspots.blinkstart_black" zpos="-9.31105" ypos="2.16715" xpos="-21.0704" MapID="957"/>
+   <POI GUID="IVCtvPG5GEWCC0p2dPzSqw==" type="fractals.blinkspots.blinkstart_white" zpos="-9.31105" ypos="2.16715" xpos="-21.0704" MapID="957"/>
+   <POI GUID="GvrCjy4dZUOrQt6EBpdcNA==" type="fractals.blinkspots.blinkaim_black" zpos="-1.60089" ypos="18.6709" xpos="-35.5747" MapID="957"/>
+   <POI GUID="CTFtZZppM0ieB+dGSMshSQ==" type="fractals.blinkspots.blinkaim_white" zpos="-1.60089" ypos="18.6709" xpos="-35.5747" MapID="957"/>
+   <POI GUID="GzeuK0ZIvE2ym/jy4tsnHw==" type="fractals.portalspots.portalend" zpos="-0.164288" ypos="18.6709" xpos="-34.2077" MapID="957"/>
+   <POI GUID="FaNRwBi7O0qOhdQiDkFGhQ==" type="fractals.portalspots.portalstart" zpos="-117.361" ypos="266.921" xpos="-55.2527" MapID="1290"/>
+   <POI GUID="/GQm4ayQwUGaMqzkUgOIMg==" type="fractals.portalspots.portalend" zpos="-40.5219" ypos="266.998" xpos="-51.8876" MapID="1290"/>
+   <POI GUID="HU//wue7p0iOvJb9lhc3pg==" type="fractals.portalspots.portalstart" zpos="-108.39" ypos="266.834" xpos="96.3007" MapID="1290"/>
+   <POI GUID="tbWsAoU/YUGZQO5KgVKX4w==" type="fractals.portalspots.portalend" zpos="-110.607" ypos="266.903" xpos="158.444" MapID="1290"/>
+   <POI GUID="PE3vOMfVFkC98DL5Ea6WVw==" type="fractals.portalspots.portalstart" zpos="-19.6763" ypos="561.827" xpos="29.5119" MapID="952"/>
+   <POI GUID="7n8Ijy5foEagcvuUOUAMlg==" type="fractals.portalspots.portalend" zpos="-22.4257" ypos="593.572" xpos="31.7034" MapID="952"/>
+   <POI GUID="f9FsJVFTK06Vsf7+yx1WMQ==" type="fractals.ggspots.ggindicator" zpos="23.4537" ypos="592.964" xpos="61.6502" MapID="952"/>
+   <POI GUID="IkrbT0NorkSioGI7tneyOQ==" type="fractals.blinkspots.blinkstart_black" zpos="92.2935" ypos="592.799" xpos="65.0426" MapID="952"/>
+   <POI GUID="+wiZUeLHa0a1MoN8qFlJPw==" type="fractals.blinkspots.blinkstart_white" zpos="92.2935" ypos="592.799" xpos="65.0426" MapID="952"/>
+   <POI GUID="Qjqr5ZC6S0mdIL9q5OnTfQ==" type="fractals.blinkspots.blinkaim_black" zpos="99.7534" ypos="609.924" xpos="71.4689" MapID="952"/>
+   <POI GUID="gchu8kw2n0O0gtrIuUWGWA==" type="fractals.blinkspots.blinkaim_white" zpos="99.7534" ypos="609.924" xpos="71.4689" MapID="952"/>
+   <POI GUID="UCJ6ul0YC0KnPgKPtRg50g==" type="fractals.blinkspots.blinkaim_black" zpos="98.9318" ypos="633.62" xpos="67.7689" MapID="952"/>
+   <POI GUID="ixPHa5JAkEK1QBRcxnt1tQ==" type="fractals.blinkspots.blinkaim_white" zpos="98.9318" ypos="633.62" xpos="67.7689" MapID="952"/>
+   <POI GUID="YiRC2AJ/uUCJ8HrTOJ8/VA==" type="fractals.blinkspots.blinkaim_black" zpos="32.5674" ypos="662.249" xpos="49.9976" MapID="952"/>
+   <POI GUID="zialXbnLe0KYjKzywi0Bsw==" type="fractals.blinkspots.blinkaim_white" zpos="32.5674" ypos="662.249" xpos="49.9976" MapID="952"/>
+   <POI GUID="JQ3MeUrqJE6l4KYHyAFx1w==" type="fractals.ggspots.ggindicator" zpos="36.6818" ypos="667.473" xpos="70.1087" MapID="952"/>
+   <POI GUID="3/vric/42k2gohF8Xzkt9w==" type="fractals.blinkspots.blinkstart_black" zpos="26.0771" ypos="650.634" xpos="66.7126" MapID="952"/>
+   <POI GUID="k8FB2iiRYEyoyflFy04/zw==" type="fractals.blinkspots.blinkstart_white" zpos="26.0771" ypos="650.634" xpos="66.7126" MapID="952"/>
+   <POI GUID="kDPUnPjVg0iaF7fCbuu3Mw==" type="fractals.portalspots.portalstart" zpos="-20.5364" ypos="668.305" xpos="53.6" MapID="952"/>
+   <POI GUID="k6K1dQIcokqkHvTzQNZMAQ==" type="fractals.blinkspots.blinkaim_black" zpos="-61.9575" ypos="674.48" xpos="51.5135" MapID="952"/>
+   <POI GUID="SfAn7C8ctkGDM9rWN/IDzA==" type="fractals.blinkspots.blinkaim_white" zpos="-61.9575" ypos="674.48" xpos="51.5135" MapID="952"/>
+   <POI GUID="52x42+k6eEWWAUXNA6bATg==" type="fractals.blinkspots.blinkstart_black" zpos="-48.2842" ypos="666.694" xpos="58.8808" MapID="952"/>
+   <POI GUID="XzmtN4/VfUmXw7S93DwvUQ==" type="fractals.blinkspots.blinkstart_white" zpos="-48.2842" ypos="666.694" xpos="58.8808" MapID="952"/>
+   <POI GUID="KhLcZmFYsU+RmSd3qHmZRg==" type="fractals.portalspots.portalend" zpos="-53.8233" ypos="689.794" xpos="57.5824" MapID="952"/>
+   <POI GUID="/KyI2PEgTEyMrmnaWE0QjQ==" type="fractals.portalspots.portalstart" zpos="-55.6254" ypos="688.956" xpos="73.1177" MapID="952"/>
+   <POI GUID="4ZFKSv2hO02cgyGRiDd6Cw==" type="fractals.ggspots.ggindicator" zpos="-57.9122" ypos="690.879" xpos="75.2159" MapID="952"/>
+   <POI GUID="qbTuSiBEZ0ObK8aIk6emBQ==" type="fractals.blinkspots.blinkstart_black" zpos="-35.0188" ypos="688.26" xpos="88.5296" MapID="952"/>
+   <POI GUID="d/xUo1DPLkmex11yBcqNPA==" type="fractals.blinkspots.blinkstart_white" zpos="-35.0188" ypos="688.26" xpos="88.5296" MapID="952"/>
+   <POI GUID="uuzQiDpjNEG+nom7f3n2bg==" type="fractals.stealthspots.stealthmarker" zpos="215.41" ypos="25.0597" xpos="37.1916" MapID="1267"/>
+   <POI GUID="pXOHbMZq40avrk9TJy33GQ==" type="fractals.leapandjumpspots.leapstart" zpos="-100.808" ypos="214.576" xpos="159.758" MapID="872"/>
+   <POI GUID="W3b1nn0Le0eDiXXiCAXI0Q==" type="raids.actionsperminute.w3.xera_apm" zpos="0.49226" ypos="521.271" xpos="-38.4409" MapID="1156"/>
+   <POI GUID="w8Mk+UvvGUenVfeMhMKGEQ==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="-3.23253" ypos="521.261" xpos="-31.0426" MapID="1156"/>
+   <POI GUID="zMuOzAAawkOQiXmEsHXb5g==" type="raids.metamarkers.tankmarkers.tankfixatemarkers.tankmarker_toughness" zpos="-3.10249" ypos="521.261" xpos="-28.8052" MapID="1156"/>
+   <POI GUID="gQnxb5w7bkWkZhiFIWtfSg==" type="fractals.fractalhitboxes.hitboxskorvald" zpos="437.866" ypos="118.716" xpos="-552.091" MapID="1205"/>
+   <POI GUID="ywvjasJjpUyZnp6OafKgnw==" type="fractals.leapandjumpspots.jumpmarker" zpos="137.043" ypos="53.1287" xpos="-0.240747" MapID="1177"/>
+   <POI GUID="iRIzJK4Ts0ims0KbQt9JYg==" type="fractals.fractalhitboxes.hitboxmama" zpos="169.723" ypos="24.0561" xpos="45.2967" MapID="1177"/>
+   <POI GUID="0wms+7oaKUSMCCA+SK/X6A==" type="fractals.extramechanics_directions.deepstonechests" zpos="-82.0416" ypos="266.832" xpos="13.7025" MapID="1290"/>
+   <POI GUID="tmb6HkYyVE6lJZUX8IIzTQ==" type="fractals.extramechanics_directions.deepstonechests" zpos="-53.9624" ypos="266.832" xpos="3.8062" MapID="1290"/>
+   <POI GUID="m1chQFBqiE+vxYBfY6giyg==" type="fractals.extramechanics_directions.deepstonechests" zpos="97.5633" ypos="266.922" xpos="11.2458" MapID="1290"/>
+   <POI GUID="vE5/n8a640Sc2BV4cJ+RlA==" type="fractals.extramechanics_directions.deepstonechests" zpos="187.027" ypos="125.264" xpos="19.9834" MapID="1290"/>
+   <POI GUID="GTpHnQhSPEKnM+KE1e0X6A==" type="fractals.extramechanics_directions.deepstonechests" zpos="204.883" ypos="119.573" xpos="42.7145" MapID="1290"/>
+   <POI GUID="HZ+rv6XOOkClI2foOF8sAw==" type="fractals.extramechanics_directions.deepstonechests" zpos="393.606" ypos="119.801" xpos="33.0732" MapID="1290"/>
+   <POI GUID="6aqqUe1EoUanl/jFX+p9Cg==" type="fractals.basicsigil.forcesigil" zpos="-17.923" ypos="266.901" xpos="15.7857" MapID="1290"/>
+   <POI GUID="7oxG9IvUc0Oc2YqRNxjN/g==" type="fractals.slayingsigil.ghostslaying" zpos="-17.8637" ypos="266.898" xpos="17.6131" MapID="1290"/>
+   <POI GUID="gqg3K7TvLUyhTItD9LmeIg==" type="fractals.basicsigil.forcesigil" zpos="68.5002" ypos="266.936" xpos="20.2796" MapID="1290"/>
+   <POI GUID="h72FQiapv0uBXNX/vHC1rg==" type="fractals.basicsigil.impactsigil" zpos="68.4761" ypos="266.899" xpos="22.1068" MapID="1290"/>
+   <POI GUID="w5Fl8H/kKE6tIMGH0rRaFA==" type="fractals.extramechanics_directions.deepstonechests" zpos="20.3851" ypos="266.841" xpos="-50.9671" MapID="1290"/>
+   <POI GUID="Ey5YVPfJzUW8orkRmrZ03g==" type="fractals.extramechanics_directions.deepstonechests" zpos="-8.34823" ypos="266.987" xpos="-96.9651" MapID="1290"/>
+   <POI GUID="FW1iPDar40ms5VzATbZjPg==" type="fractals.extramechanics_directions.deepstonechests" zpos="-154.711" ypos="266.832" xpos="52.906" MapID="1290"/>
+   <POI GUID="qZGbR8rk3kC/rQV7fydyLw==" type="fractals.extramechanics_directions.deepstonechests" zpos="-111.283" ypos="267" xpos="82.2249" MapID="1290"/>
+   <POI GUID="H6PACDUUlEqWEpdeQ1sC+Q==" type="fractals.extramechanics_directions.deepstonechests" zpos="-123.316" ypos="267.25" xpos="189.275" MapID="1290"/>
+   <POI GUID="EYWj5OUGdUy9lKkLsCHUgA==" type="fractals.extramechanics_directions.deepstonechests" zpos="-85.5133" ypos="266.835" xpos="206.15" MapID="1290"/>
+   <POI GUID="TRhkUvJa3U24/AzMFWwrVg==" type="fractals.extramechanics_directions.deepstonechests" zpos="-144.42" ypos="267.204" xpos="-8.59058" MapID="1290"/>
+   <POI GUID="IllWMictfESk7KCtkOicSA==" type="fractals.extramechanics_directions.deepstonechests" zpos="-34.6211" ypos="266.998" xpos="-64.7201" MapID="1290"/>
+   <POI GUID="Lsy2g/0t006BhZFtV7/DKQ==" type="fractals.extramechanics_directions.deepstonechests" zpos="-114.77" ypos="266.833" xpos="-20.5402" MapID="1290"/>
+   <POI GUID="bClEOt2ug0Cs5DkzWKARig==" type="fractals.extramechanics_directions.deepstonechests" zpos="-80.6171" ypos="267.009" xpos="-46.3307" MapID="1290"/>
+   <POI GUID="lWcb/ooD3EmtklNddT1UlA==" type="fractals.leapandjumpspots.leapaim_black" zpos="-719.214" ypos="846.511" xpos="-839.124" MapID="947"/>
+   <POI GUID="Fdb3HHcJFU2uCYUd+UE+Ig==" type="fractals.leapandjumpspots.leapaim_white" zpos="-719.214" ypos="846.511" xpos="-839.124" MapID="947"/>
+   <POI GUID="Q5whYcql9UW55RlfTWxzEw==" type="fractals.leapandjumpspots.leapstart" zpos="-730.052" ypos="843.755" xpos="-825.192" MapID="947"/>
+   <POI GUID="NVWG0t8CPEOwGP+2KSjdyA==" type="fractals.stealthspots.stealthmarker" zpos="-668.985" ypos="779.91" xpos="-742.373" MapID="947"/>
+   <POI GUID="t48+eMHYcECbXrg2idsJCQ==" type="fractals.portalspots.portalstart" zpos="-674.336" ypos="779.093" xpos="-746.66" MapID="947"/>
+   <POI GUID="kOfAtuj3i0Wvrq6/6KO4UQ==" type="fractals.portalspots.portalend" zpos="-706.59" ypos="828.022" xpos="-767.949" MapID="947"/>
+   <POI GUID="FUUkxoCV5U+YX6ypCr+jqg==" type="fractals.stealthspots.stealthmarker" zpos="-605.031" ypos="839.095" xpos="-797.446" MapID="947"/>
+   <POI GUID="ocfBWuj0V0OFnKJ9FcN2rg==" type="fractals.stealthspots.stealthmarker" zpos="-657.62" ypos="846.137" xpos="-851.948" MapID="947"/>
+   <POI GUID="iK30EIPdE0yIdm21GrosBQ==" type="fractals.ggspots.ggindicator" zpos="-700.995" ypos="858.85" xpos="-837.644" MapID="947"/>
+   <POI GUID="aLJeTwNLxEOfPbMKt/sD4g==" type="fractals.blinkspots.blinkaim_black" zpos="-712.835" ypos="828.705" xpos="-773.032" MapID="947"/>
+   <POI GUID="gThAAQdZrE+d5CqapRMdnQ==" type="fractals.blinkspots.blinkaim_white" zpos="-712.835" ypos="828.705" xpos="-773.032" MapID="947"/>
+   <POI GUID="/1M+hkaXu0C2aDT1ivejIg==" type="fractals.blinkspots.blinkstart_black" zpos="-710.492" ypos="804.912" xpos="-764.251" MapID="947"/>
+   <POI GUID="793IrQ9j9EaFCo65+8Kijw==" type="fractals.blinkspots.blinkstart_white" zpos="-710.492" ypos="804.912" xpos="-764.251" MapID="947"/>
+   <POI GUID="/GQsyfY5hUGT5/uKC8y9vg==" type="fractals.portalspots.portalstart" zpos="5.21545" ypos="14.0751" xpos="-57.1399" MapID="948"/>
+   <POI GUID="7pXlGiecwkKz0yNfEa2Lbw==" type="fractals.portalspots.portalend" zpos="-77.5737" ypos="17.1364" xpos="-73.618" MapID="948"/>
+   <POI GUID="x9mh7+66okGmBMUj1OOk8g==" type="fractals.stealthspots.stealthmarker" zpos="-184.78" ypos="27.4644" xpos="-7.8247" MapID="948"/>
+   <POI GUID="mPgdXX75lUuiOJbYOGUU8g==" type="fractals.ggspots.ggindicator" zpos="33.1146" ypos="43.1079" xpos="135.565" MapID="948"/>
+   <POI GUID="GuwmiKJn90inZWFjV4Z5MQ==" type="fractals.slayingsigil.sonsofsvanirslaying" zpos="-20.505" ypos="27.1594" xpos="185.3" MapID="948"/>
+   <POI GUID="Hg4hwPG+dU2+TNl2oHQUcw==" type="fractals.basicsigil.nightsigil" zpos="-19.5446" ypos="27.0008" xpos="186.687" MapID="948"/>
+   <POI GUID="ZbX49GP1s0ag97TpJHFWSA==" type="fractals.utility.slayingpotions.sonsofsvanirpotion" zpos="-19.0398" ypos="25.3604" xpos="185.66" MapID="948"/>
+   <POI GUID="3wiO3UMl8kiEBymW8SrT5w==" type="fractals.leapandjumpspots.leapaim_black" zpos="105.818" ypos="69.5417" xpos="32.3541" MapID="948"/>
+   <POI GUID="XoInAGQsEEqf0i/ITXi43w==" type="fractals.leapandjumpspots.leapaim_white" zpos="105.818" ypos="69.5417" xpos="32.3541" MapID="948"/>
+   <POI GUID="w3zKUdsv5kSBBNfzWEPGGw==" type="fractals.leapandjumpspots.leapstart" zpos="107.841" ypos="71.8123" xpos="52.1193" MapID="948"/>
+   <POI GUID="TzV/wHMwSUCVRXnFrAXquw==" type="fractals.leapandjumpspots.leapstart" zpos="96.9914" ypos="69.3979" xpos="19.4625" MapID="948"/>
+   <POI GUID="uyxBgO3zeEeVPWME3KQi/Q==" type="fractals.leapandjumpspots.leapaim_black" zpos="103.977" ypos="68.5374" xpos="0.613117" MapID="948"/>
+   <POI GUID="usPHN69OBE+Ird7dpcwCOQ==" type="fractals.leapandjumpspots.leapaim_white" zpos="103.977" ypos="68.5374" xpos="0.613117" MapID="948"/>
+   <POI GUID="mMoNYwOcMkynr1H6pG0e+g==" type="fractals.stealthspots.stealthmarker" zpos="-165.311" ypos="36.8127" xpos="77.9985" MapID="948"/>
+   <POI GUID="Y7NyuoLCl0iJSdddLGB/Pg==" type="fractals.stealthspots.stealthmarker" zpos="663.544" ypos="4.42483" xpos="258.537" MapID="950"/>
+   <POI GUID="E/T/4a4OdUKfzOOK6Jgphg==" type="fractals.stealthspots.stealthmarker" zpos="624.964" ypos="6.15255" xpos="177.93" MapID="950"/>
+   <POI GUID="KuzqG05fvk2mPHIdZw3BGQ==" type="fractals.stealthspots.stealthmarker" zpos="678.558" ypos="13.7718" xpos="157.767" MapID="950"/>
+   <POI GUID="wTrgvo5vdUukR5svYnk8fQ==" type="fractals.stealthspots.stealthmarker" zpos="674.928" ypos="2.97759" xpos="331.094" MapID="950"/>
+   <POI GUID="CJVtcH0IM0G7O5WyUrMuGA==" type="fractals.stealthspots.stealthmarker" zpos="679.656" ypos="2.98191" xpos="289.507" MapID="950"/>
+   <POI GUID="a3/GcjxVnkyG/NJ5EEOdiA==" type="fractals.stealthspots.stealthmarker" zpos="793.766" ypos="8.82514" xpos="312.575" MapID="950"/>
+   <POI GUID="eWkMJ5k4J0Okuti1m9ehgw==" type="fractals.stealthspots.stealthmarker" zpos="885.162" ypos="17.154" xpos="304.369" MapID="950"/>
+   <POI GUID="ry6KmyK1gkuVmk99nQqOkg==" type="fractals.stealthspots.stealthmarker" zpos="684.673" ypos="12.5695" xpos="135.748" MapID="950"/>
+   <POI GUID="OFdXU6uZaE+YxY+aC0WaLQ==" type="fractals.leapandjumpspots.jumpmarker" zpos="690.394" ypos="6.72545" xpos="290.001" MapID="950"/>
+   <POI GUID="QHNFPQofY0C1TlD1hup0Jg==" type="fractals.leapandjumpspots.jumpmarker" zpos="681.32" ypos="12.4018" xpos="280.39" MapID="950"/>
+   <POI GUID="7e/+D9KNaE2K3bmBBUkFVA==" type="fractals.leapandjumpspots.leapstart" zpos="675.259" ypos="12.9669" xpos="276.17" MapID="950"/>
+   <POI GUID="Athd9YyQ2EKAgNLyju6UVw==" type="fractals.leapandjumpspots.leapaim_black" zpos="682.917" ypos="16.0033" xpos="279.296" MapID="950"/>
+   <POI GUID="mToYQLw/c0uwMD9ymY3gSA==" type="fractals.leapandjumpspots.leapaim_white" zpos="682.917" ypos="16.0033" xpos="279.296" MapID="950"/>
+   <POI GUID="Pwp4VEQtqU2GN7JaWXOI2A==" type="fractals.leapandjumpspots.jumpmarker" zpos="688.645" ypos="19.514" xpos="281.902" MapID="950"/>
+   <POI GUID="5kSnrUoIuU2WqGnhiEpKuA==" type="fractals.leapandjumpspots.leapstart" zpos="691.62" ypos="21.8979" xpos="277.008" MapID="950"/>
+   <POI GUID="KH6EbUt70kuEzuUsA58FmA==" type="fractals.leapandjumpspots.leapaim_black" zpos="691.012" ypos="22.6765" xpos="262.038" MapID="950"/>
+   <POI GUID="oEB0IjeSUEeo+wy8RbcLNg==" type="fractals.leapandjumpspots.leapaim_white" zpos="691.012" ypos="22.6765" xpos="262.038" MapID="950"/>
+   <POI GUID="Pd/AvkpTBECYTvGf/+5Nog==" type="fractals.leapandjumpspots.leapaim_white" zpos="705.109" ypos="26.2818" xpos="255.38" MapID="950"/>
+   <POI GUID="+aFLEXr3K0O8xQw9DlBryg==" type="fractals.leapandjumpspots.leapaim_black" zpos="705.109" ypos="26.2818" xpos="255.38" MapID="950"/>
+   <POI GUID="eoNR5pMYPka9RRsb5IMX8A==" type="fractals.leapandjumpspots.leapstart" zpos="689.4" ypos="24.3586" xpos="255.804" MapID="950"/>
+   <POI GUID="QuSk6xEuKECBhLJACFAL+Q==" type="fractals.portalspots.portalend" zpos="708.408" ypos="11.2755" xpos="210.326" MapID="950"/>
+   <POI GUID="iljPSxChWUGdRgaYCUOz2w==" type="fractals.portalspots.portalstart" zpos="677.914" ypos="3.35576" xpos="284.331" MapID="950"/>
+   <POI GUID="rew8PTJPC0uMDPsdUCt+/Q==" type="fractals.ggspots.ggindicator" zpos="660.198" ypos="2.46475" xpos="291.147" MapID="950"/>
+   <POI GUID="p5lO8U6jLEqOHcMRgQgabg==" type="fractals.boon_skillreminders.stability" zpos="103.376" ypos="596.757" xpos="53.8572" MapID="952"/>
+   <POI GUID="IWHkVkxUbEi8SSzwQtXTXg==" type="fractals.blinkspots.blinkstart_black" zpos="-76.8903" ypos="691.314" xpos="118.808" MapID="952"/>
+   <POI GUID="rWXdU/tVb0atSKRrF2mHxQ==" type="fractals.blinkspots.blinkstart_white" zpos="-76.8903" ypos="691.314" xpos="118.808" MapID="952"/>
+   <POI GUID="dzeAv9RGf0SWS+T4lcvBig==" type="fractals.blinkspots.blinkaim_black" zpos="-75.7181" ypos="698.131" xpos="131.764" MapID="952"/>
+   <POI GUID="0zMCPSDp1E2jtub9DJYh5g==" type="fractals.blinkspots.blinkaim_white" zpos="-75.7181" ypos="698.131" xpos="131.764" MapID="952"/>
+   <POI GUID="AB5NAhvNG0mHkg/46Z1fvw==" type="fractals.blinkspots.blinkaim_black" zpos="-34.1189" ypos="712.158" xpos="92.7558" MapID="952"/>
+   <POI GUID="z5v3bCueAUGxlo3ZIm/0PA==" type="fractals.blinkspots.blinkaim_white" zpos="-34.1189" ypos="712.158" xpos="92.7558" MapID="952"/>
+   <POI GUID="bDwT+VYk6kezWbmBCfm/MQ==" type="fractals.blinkspots.blinkaim_black" zpos="-67.2831" ypos="716.146" xpos="158.638" MapID="952"/>
+   <POI GUID="rF2E7AtJF0Ku6yibT6K2qg==" type="fractals.blinkspots.blinkaim_white" zpos="-67.2831" ypos="716.146" xpos="158.638" MapID="952"/>
+   <POI GUID="xI0Zj9DGUEyc6zZ1j3Myxw==" type="fractals.blinkspots.blinkstart_black" zpos="-73.1435" ypos="705.267" xpos="148.859" MapID="952"/>
+   <POI GUID="3NlA1sEx1EaBHOAFK13PoA==" type="fractals.blinkspots.blinkstart_white" zpos="-73.1435" ypos="705.267" xpos="148.859" MapID="952"/>
+   <POI GUID="0hJfiiLGeE61N1cpcjdERw==" type="fractals.portalspots.portalend" zpos="-31.8452" ypos="712.632" xpos="95.7538" MapID="952"/>
+   <POI GUID="a/N5a28aEEWVv10rVl+IJg==" type="fractals.ggspots.ggindicator" zpos="-858.368" ypos="-49.4721" xpos="-436.066" MapID="951"/>
+   <POI GUID="8Azj99Onv0OLt5nRaBbipA==" type="fractals.stealthspots.stealthmarker" zpos="-647.143" ypos="-119.669" xpos="-123.305" MapID="951"/>
+   <POI GUID="83OdOCSOBU2y+JER6PeZ9g==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-761.21" ypos="-179.195" xpos="-235.821" MapID="951"/>
+   <POI GUID="bbThDVLZHUe45D14dbD5mw==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-788.618" ypos="-171.004" xpos="-207.564" MapID="951"/>
+   <POI GUID="Y9BxlK8PwkuXkn+iEH4h4g==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-792.549" ypos="-169.699" xpos="-202.242" MapID="951"/>
+   <POI GUID="y6ie9iO7T0OzFyKDpxTKnA==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-866.465" ypos="-172.413" xpos="-183.554" MapID="951"/>
+   <POI GUID="2qhdjvTCtk6iDSAYjQQx/w==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-909.114" ypos="-167.381" xpos="-219.504" MapID="951"/>
+   <POI GUID="GNxEbKdq5kSfCG6+alNMfQ==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-903.532" ypos="-168.607" xpos="-223.559" MapID="951"/>
+   <POI GUID="ZY8PoFDuJkSWTMYJiqOwAA==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-887.433" ypos="-164.712" xpos="-276.453" MapID="951"/>
+   <POI GUID="Zo5XoGuKYUWYODriVFpJMA==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-883.014" ypos="-156.137" xpos="-286.599" MapID="951"/>
+   <POI GUID="LjiTDCBMyEyQqGyNYrBCUQ==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-877.443" ypos="-122.851" xpos="-303.212" MapID="951"/>
+   <POI GUID="/bYija1OX0CS8+YIb4aBPg==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-873.248" ypos="-104.425" xpos="-310.913" MapID="951"/>
+   <POI GUID="LkuVt9G0LEiRHYSeaLlpUg==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-877.042" ypos="-105.846" xpos="-310.391" MapID="951"/>
+   <POI GUID="6hZARtPz4EyTqST1XaSbMg==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-874.019" ypos="-90.8014" xpos="-322.971" MapID="951"/>
+   <POI GUID="QbfYytCiPUOWoN7IJhX4yA==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-876.098" ypos="-86.3449" xpos="-329.268" MapID="951"/>
+   <POI GUID="nLL/5YfzRk6WDJY2f5Gz2w==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-862.733" ypos="-77.2652" xpos="-332.507" MapID="951"/>
+   <POI GUID="JQLYRREmH0m/GBeBXORpfA==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-859.322" ypos="-77.3206" xpos="-327.282" MapID="951"/>
+   <POI GUID="s7052hTI4UiKQEuzUXIEHA==" type="fractals.extramechanics_directions.lightorbyellow" zpos="-851.671" ypos="-73.4923" xpos="-334.271" MapID="951"/>
+   <POI GUID="ymytqeJNO06vwg/kCQJzIQ==" type="fractals.leapandjumpspots.leapstart" zpos="-878.984" ypos="-157.836" xpos="-283.519" MapID="951"/>
+   <POI GUID="yNg3PVqdqE+6/yjxyQ7hnA==" type="fractals.leapandjumpspots.leapaim_white" zpos="-859.222" ypos="-161.425" xpos="-275.51" MapID="951"/>
+   <POI GUID="krgZkjrAG0uckG4paLivfw==" type="fractals.basicsigil.forcesigil" zpos="-733.189" ypos="-204.487" xpos="-273.278" MapID="951"/>
+   <POI GUID="lynWTGAJM0mxj7jL4HokEg==" type="fractals.basicsigil.impactsigil" zpos="-730.986" ypos="-204.487" xpos="-272.755" MapID="951"/>
+   <POI GUID="hmsA01BmtUyDSDjhZmgt+g==" type="fractals.basicsigil.impactsigil" zpos="-690.481" ypos="-193.032" xpos="-296.561" MapID="951"/>
+   <POI GUID="2oJz2UJTX0CR8uGAwWH88Q==" type="fractals.basicsigil.forcesigil" zpos="-691.718" ypos="-193.032" xpos="-294.834" MapID="951"/>
+   <POI GUID="rZTUP61+zUCZ4mzKr9oGdQ==" type="fractals.boon_skillreminders.stability" zpos="-691.024" ypos="-192.961" xpos="-295.654" MapID="951"/>
+   <POI GUID="Isuv56R0x0q0RV86p1WK7w==" type="fractals.extramechanics_directions.deepstonechests" zpos="-120.586" ypos="266.921" xpos="-64.6089" MapID="1290"/>
+   <POI GUID="h/Smgk049UiSb1ktxKZxcg==" type="fractals.leapandjumpspots.jumpmarker" zpos="17.4965" ypos="2.78786" xpos="100.814" MapID="1267"/>
+   <POI GUID="uQDyZ/uDK0K4G//6J6vvNA==" type="fractals.leapandjumpspots.jumpmarker" zpos="19.5701" ypos="12.7904" xpos="93.2374" MapID="1267"/>
+   <POI GUID="pjT1cHJoUkezXseNwWQckQ==" type="fractals.leapandjumpspots.jumpmarker" zpos="29.4766" ypos="22.7143" xpos="88.8049" MapID="1267"/>
+   <POI GUID="7XydLU1SPE2KsaioYL8ahA==" type="fractals.leapandjumpspots.jumpmarker" zpos="58.1505" ypos="33.2616" xpos="44.2123" MapID="1267"/>
+   <POI GUID="V7mP1Mww/UOKd7r0eTtD4w==" type="fractals.leapandjumpspots.jumpmarker" zpos="67.9568" ypos="26.4801" xpos="47.2809" MapID="1267"/>
+   <POI GUID="5J6wYrzXykWbb7yUKHYihw==" type="fractals.portalspots.portalstart" zpos="53.7787" ypos="2.62295" xpos="154.273" MapID="1267"/>
+   <POI GUID="yuYCPOp/6kCrU/HzZWy8XQ==" type="fractals.leapandjumpspots.jumpmarker" zpos="56.4496" ypos="7.08582" xpos="159.428" MapID="1267"/>
+   <POI GUID="DrBYJkGmt0SsjiiHgKDDHQ==" type="fractals.leapandjumpspots.jumpmarker" zpos="60.0592" ypos="16.5246" xpos="152.686" MapID="1267"/>
+   <POI GUID="7g4uSvHtQUupfiXclUfuJg==" type="fractals.leapandjumpspots.jumpmarker" zpos="57.9017" ypos="22.8519" xpos="149.997" MapID="1267"/>
+   <POI GUID="w+PtEssu/EigE721kP/MZg==" type="fractals.leapandjumpspots.jumpmarker" zpos="68.3656" ypos="26.5619" xpos="154.489" MapID="1267"/>
+   <POI GUID="S7aWwRSHWUytqBkReY44Zw==" type="fractals.leapandjumpspots.jumpmarker" zpos="68.6" ypos="36.7816" xpos="151.133" MapID="1267"/>
+   <POI GUID="aDNH7SuldEe9HrgHhkDOtw==" type="fractals.leapandjumpspots.jumpmarker" zpos="72.3632" ypos="36.7816" xpos="145.484" MapID="1267"/>
+   <POI GUID="33WU97aX70Gg1hl4Ui+FoA==" type="fractals.leapandjumpspots.jumpmarker" zpos="75.2005" ypos="45.85" xpos="145.277" MapID="1267"/>
+   <POI GUID="TCLcL6hqKU6GOjGLkdl6oA==" type="fractals.portalspots.portalend" zpos="66.7079" ypos="36.7816" xpos="145.365" MapID="1267"/>
+   <POI GUID="aUE4sXvIP0qS+zxjGySW4Q==" type="fractals.leapandjumpspots.jumpmarker" zpos="110.226" ypos="45.9428" xpos="129.903" MapID="1267"/>
+   <POI GUID="BoJ0ORyP7UGcZSaETUq0qg==" type="fractals.leapandjumpspots.jumpmarker" zpos="136.654" ypos="35.7242" xpos="102.296" MapID="1267"/>
+   <POI GUID="mi/+JpJh1UmC74kUVbtaLQ==" type="fractals.ggspots.ggindicator" zpos="174.206" ypos="46.673" xpos="93.4487" MapID="1267"/>
+   <POI GUID="TkIgvls+ZUS+y0a2YVPlgg==" type="fractals.stealthspots.stealthmarker" zpos="173.874" ypos="44.9369" xpos="90.0026" MapID="1267"/>
+   <POI GUID="xC8yahc1yUenmueC0o+pTQ==" type="fractals.stealthspots.stealthmarker" zpos="149.459" ypos="51.9621" xpos="147.933" MapID="1267"/>
+   <POI GUID="7SnlAJNIRUWA7+56h507kA==" type="fractals.stealthspots.stealthmarker" zpos="75.5622" ypos="42.1732" xpos="32.6033" MapID="1267"/>
+   <POI GUID="JhLX3CZtjE2nyIqnu0ZSxA==" type="fractals.portalspots.portalstart" zpos="75.5362" ypos="42.0455" xpos="37.6981" MapID="1267"/>
+   <POI GUID="bulmZW2hBEKVV7zF7Om74A==" type="fractals.stealthspots.stealthmarker" zpos="127.829" ypos="51.2872" xpos="-23.1377" MapID="1267"/>
+   <POI GUID="GGUZ2DCFK0Sguv6S8STOsQ==" type="fractals.ggspots.ggindicator" zpos="164.409" ypos="64.9576" xpos="19.4604" MapID="1267"/>
+   <POI GUID="UvGoasz7C0eIKIwL//VBPA==" type="fractals.stealthspots.stealthmarker" zpos="159.003" ypos="64.5997" xpos="14.1752" MapID="1267"/>
+   <POI GUID="6+tL7USRekmX3unZLGcXmg==" type="fractals.portalspots.portalend" zpos="160.879" ypos="44.9369" xpos="65.1011" MapID="1267"/>
+   <POI GUID="RLvOLybfOUGpN8g5p0369Q==" type="fractals.leapandjumpspots.jumpmarker" zpos="157.918" ypos="33.9457" xpos="65.4805" MapID="1267"/>
+   <POI GUID="zlsO67hqD0CKUbHOM3P2Hw==" type="fractals.leapandjumpspots.jumpmarker" zpos="158.34" ypos="44.5389" xpos="65.4393" MapID="1267"/>
+   <POI GUID="CTSECANuZEW7yXYlKoyZiA==" type="fractals.leapandjumpspots.jumpmarker" zpos="156.945" ypos="24.0708" xpos="65.768" MapID="1267"/>
+   <POI GUID="snUySjK3Fkma3nZ5O6ke1w==" type="fractals.boon_skillreminders.reflectmarker" zpos="-22.396" ypos="67.4967" xpos="-21.2613" MapID="960"/>
+   <POI GUID="mBQ2tUN+z0OmQdWHI9OAjQ==" type="fractals.boon_skillreminders.stability" zpos="8.23328" ypos="58.4689" xpos="-45.1837" MapID="960"/>
+   <POI GUID="4/27zUCAG0OmKYhQnc83VQ==" type="fractals.leapandjumpspots.leapstart" zpos="109.625" ypos="222.932" xpos="-230.035" MapID="955"/>
+   <POI GUID="2TLzwCYqnEy2jyXHKhYpSw==" type="fractals.leapandjumpspots.leapaim_black" zpos="87.8611" ypos="217.137" xpos="-232.609" MapID="955"/>
+   <POI GUID="plcMZDpIA0Oh9xXq+iAwGw==" type="fractals.leapandjumpspots.leapaim_white" zpos="87.8611" ypos="217.137" xpos="-232.609" MapID="955"/>
+   <POI GUID="AZy5giT/jUOnYdyVeg/u6w==" type="fractals.boon_skillreminders.reflectmarker" zpos="56.3779" ypos="226.405" xpos="-238.035" MapID="955"/>
+   <POI GUID="C2JF87Mp5Eu1fQl/39SUVg==" type="fractals.leapandjumpspots.leapaim_black" zpos="-802.274" ypos="26.1934" xpos="148.22" MapID="954"/>
+   <POI GUID="/g2N7lnOy0KI90Aq1BOjsw==" type="fractals.leapandjumpspots.leapaim_white" zpos="-802.274" ypos="26.1934" xpos="148.22" MapID="954"/>
+   <POI GUID="cAIpupOkKE+i5F9bLfyKFw==" type="fractals.leapandjumpspots.jumpmarker" zpos="-732.656" ypos="30.9997" xpos="196.395" MapID="954"/>
+   <POI GUID="WaimZY2V4064MV8cFA89tA==" type="fractals.stealthspots.stealthmarker" zpos="583.896" ypos="629.031" xpos="755.641" MapID="958"/>
+   <POI GUID="LBZYE8SOnEm6TamwxSgtyg==" type="fractals.stealthspots.stealthmarker" zpos="597.472" ypos="625.913" xpos="825.24" MapID="958"/>
+   <POI GUID="G9rhpK98M0WMDqJ/wJjcyQ==" type="fractals.ggspots.ggindicator" zpos="-40.1635" ypos="-0.500074" xpos="-12.9523" MapID="949"/>
+   <POI GUID="kx2y/6GdT0CgoBIQ3thjyQ==" type="fractals.extramechanics_directions.southmarkerfrac" zpos="-169.434" ypos="1.62684" xpos="-167.887" MapID="949"/>
+   <POI GUID="0FzZi3xDTkCcBa+V1Pyhzw==" type="fractals.extramechanics_directions.eastmarkerfrac" zpos="-182.579" ypos="1.50442" xpos="-70.6377" MapID="949"/>
+   <POI GUID="OPxmnmhLnUGg5pNzY1ytVg==" type="fractals.extramechanics_directions.northmarkerfrac" zpos="-87.7341" ypos="-0.19771" xpos="-65.67" MapID="949"/>
+   <POI GUID="57IsW5mR+EKlIgQ2ouP3PQ==" type="fractals.extramechanics_directions.westmarkerfrac" zpos="-83.883" ypos="0.701601" xpos="-155.252" MapID="949"/>
+   <POI GUID="Sx0bDb6BakapAAksfkxPUg==" type="raids.raidhitboxes.hitboxcairn" zpos="50.7263" ypos="49.6767" xpos="442.193" MapID="1188"/>
+   <POI GUID="PS+Pq4V4B0630Y1ANHGreg==" type="raids.w4.samarogdoorkey.samarogdoorkey1" zpos="116.575" ypos="106.811" xpos="102.326" MapID="1188"/>
+   <POI GUID="ofsCkWf4mkyHBJsiPA0qBg==" type="raids.raidhitboxes.hitboxmo" zpos="127.286" ypos="105.784" xpos="102.577" MapID="1188"/>
+   <POI GUID="FtRGq96SjU2h9d4YQnkcIQ==" type="raids.w4.samarogdoorkey.samarogdoorkey3" zpos="110.526" ypos="113.465" xpos="23.1845" MapID="1188"/>
+   <POI GUID="ZC88pwk6bUeR4RLGdZmpyw==" type="raids.w4.samarogdoorkey.samarogdoorkey4" zpos="89.8025" ypos="122.421" xpos="-9.37728" MapID="1188"/>
+   <POI GUID="nfV+0Lf5PUSklB6N5sLc2g==" type="raids.raidhitboxes.hitboxsamarog" zpos="83.8468" ypos="131.245" xpos="-58.334" MapID="1188"/>
+   <POI GUID="eEYntJ0qkkCjb4uoWzwRDQ==" type="raids.raidhitboxes.hitboxdeimos" zpos="141.678" ypos="129.727" xpos="-124.259" MapID="1188"/>
+   <POI GUID="MaZy363UjkupHb06jx5p9A==" type="raids.raidhitboxes.hitboxvg" zpos="-574.594" ypos="58.7144" xpos="-123.146" MapID="1062"/>
+   <POI GUID="fPaiGuEWbUuI/PlSCUIl5A==" type="raids.actionsperminute.w1.vg1_red_apm" zpos="-574.359" ypos="58.8031" xpos="-123.411" MapID="1062"/>
+   <POI GUID="ilrvarOto0+1Hnv4DZhR7Q==" type="raids.raidhitboxes.hitboxgorseval" zpos="-103.677" ypos="50.8958" xpos="-48.5474" MapID="1062"/>
+   <POI GUID="pKPlr/LIXkaw+qJesSNdpw==" type="raids.raidhitboxes.hitboxsabetha" zpos="142.783" ypos="71.5307" xpos="-81.7671" MapID="1062"/>
+   <POI GUID="+ynpLOL3jEuHhZqxw3qSgw==" type="raids.raidhitboxes.hitboxslothasor" zpos="41.9568" ypos="10.3731" xpos="216.856" MapID="1149"/>
+   <POI GUID="iDJh6qLOXUmsHIpJtdPWWw==" type="raids.raidhitboxes.hitboxmatthias" zpos="112.044" ypos="131.523" xpos="-155.16" MapID="1149"/>
+   <POI GUID="YkODizk8ik2CaemAf1Nv5A==" type="raids.raidhitboxes.hitboxkc" zpos="273.534" ypos="149.224" xpos="-101.894" MapID="1156"/>
+   <POI GUID="PpmjjZ0sZEeS4kBM7pk5FA==" type="raids.actionsperminute.w3.kc_apm" zpos="273.534" ypos="149.224" xpos="-101.894" MapID="1156"/>
+   <POI GUID="f9qT72f5OUeBaKqsjdbf2g==" type="raids.raidhitboxes.hitboxsoullesshorror" zpos="0.955116" ypos="40.4852" xpos="-324.09" MapID="1264"/>
+   <POI GUID="kcZvP+H1Lk+tYkVUGw6bWQ==" type="raids.raidhitboxes.hitboxdhuum" zpos="15.164" ypos="159.306" xpos="342.69" MapID="1264"/>
+   <POI GUID="mZAyU7MHkkmZ7ZgvJTBQhA==" type="raids.actionsperminute.w5.dhuum_apm" zpos="15.164" ypos="159.306" xpos="342.69" MapID="1264"/>
+   <POI GUID="/PWPHjXqGU626/0GDBsUng==" type="raids.raidhitboxes.hitboxbrokenking" zpos="195.513" ypos="112.49" xpos="160.787" MapID="1264"/>
+   <POI GUID="ndX9dj2Z8UyN2o7L0cnDfw==" type="raids.raidhitboxes.hitboxeyeofjudgement" zpos="97.5105" ypos="77.9224" xpos="303.729" MapID="1264"/>
+   <POI GUID="pwGjTwIb40CuIPB2GKMfiw==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="99.7963" ypos="78.357" xpos="302.677" MapID="1264"/>
+   <POI GUID="ay9XVivohEekCW9wgTCrgA==" type="raids.metamarkers.metastatmarkers.metapowermarker" zpos="-41.2229" ypos="79.5114" xpos="293.704" MapID="1264"/>
+   <POI GUID="SpIf+yU6ikK8ZtnaMCfIbg==" type="raids.raidhitboxes.hitboxeyeofjudgement" zpos="-38.9911" ypos="79.655" xpos="292.898" MapID="1264"/>
+   <POI GUID="2YfNIfhYy0ClPPjplH8J9A==" type="raids.raidhitboxes.hitboxeaterofsouls" zpos="-152.182" ypos="99.9557" xpos="77.321" MapID="1264"/>
+   <POI GUID="9y+oTa2fGUiAJdGEfNdLqw==" type="raids.raidhitboxes.hitboxconjuredamalgamate" zpos="-341.857" ypos="59.2049" xpos="-161.508" MapID="1303"/>
+   <POI GUID="bCT2V1wO50eVpt1HyWFlAw==" type="raids.actionsperminute.w6.ca_apm" zpos="-341.857" ypos="59.2049" xpos="-161.508" MapID="1303"/>
+   <POI GUID="1HN4HTN5HkywGi/f7WudWA==" type="raids.raidhitboxes.hitboxnikare_kenut" zpos="-158.558" ypos="38.0442" xpos="373.645" MapID="1303"/>
+   <POI GUID="7sGsVljEVUCt+9c5h8qKTg==" type="raids.raidhitboxes.hitboxnikare_kenut" zpos="-158.557" ypos="38.0442" xpos="360.398" MapID="1303"/>
+   <POI GUID="OimjsLx3g0ackMskEiJCsw==" type="raids.raidhitboxes.hitboxqadimminions" zpos="308.257" ypos="120.168" xpos="-49.9547" MapID="1303"/>
+   <POI GUID="WMkqreXtZUCEBwOzDlFxgg==" type="raids.raidhitboxes.hitboxqadim" zpos="312.098" ypos="120.168" xpos="-50.2612" MapID="1303"/>
+   <POI GUID="YneNdiLBykydTiQNtDG/gQ==" type="fractals.boon_skillreminders.stability" zpos="-67.5994" ypos="691.897" xpos="118.336" MapID="952"/>
+   <POI GUID="Fjky9EvIg0+xfGVNDmH/Og==" type="fractals.portalspots.portalstart" zpos="131.646" ypos="76.0537" xpos="356.769" MapID="1205"/>
+   <POI GUID="+9CmFhdCUkejX2txOOpIUQ==" type="fractals.portalspots.portalend" zpos="47.6402" ypos="124.107" xpos="292.387" MapID="1205"/>
+   <POI GUID="hdVBf5eqC0+tEDnOLhspTA==" type="fractals.fractalhitboxes.hitboxartsariiv" zpos="71.2309" ypos="124.107" xpos="297.166" MapID="1205"/>
+   <POI GUID="CpvPpMJxJ0e6xHuP5yxPvA==" type="fractals.fractalhitboxes.hitboxartsariiv" zpos="2.96665" ypos="124.106" xpos="297.201" MapID="1205"/>
+   <POI GUID="vsgyPxijSkq4MYySxLKdPA==" type="fractals.fractalhitboxes.hitboxartsariiv" zpos="70.2585" ypos="124.106" xpos="229.546" MapID="1205"/>
+   <POI GUID="W2WKa92lSkKP+lAqWmkjCw==" type="fractals.fractalhitboxes.hitboxartsariiv" zpos="3.72007" ypos="143.562" xpos="338.745" MapID="1205"/>
+   <POI GUID="nHgiS9M410CYeOxMCJ4tdQ==" type="fractals.fractalhitboxes.hitboxartsariiv" zpos="3.27772" ypos="124.106" xpos="229.212" MapID="1205"/>
+   <POI GUID="blY1A/G1f0ClTExjbbln6g==" type="fractals.fractalhitboxes.hitboxarkk" zpos="-429.936" ypos="89.5791" xpos="-366.089" MapID="1205"/>
+   <POI GUID="f/qUJwChIk+kaZo99rqZfw==" type="fractals.blinkspots.blinkaim_black" zpos="22.1773" ypos="5.39538" xpos="195.846" MapID="1177"/>
+   <POI GUID="QhaOBEkKbESeBjhH40e3kg==" type="fractals.blinkspots.blinkaim_white" zpos="22.1773" ypos="5.39538" xpos="195.846" MapID="1177"/>
+   <POI GUID="dUQnBVgp2EWkg5OCBRVzrw==" type="fractals.blinkspots.blinkaim_white" zpos="20.8691" ypos="5.39538" xpos="159.446" MapID="1177"/>
+   <POI GUID="wbGVQBJeYUOy14Df0V0jgQ==" type="fractals.blinkspots.blinkaim_black" zpos="20.8691" ypos="5.39538" xpos="159.446" MapID="1177"/>
+   <POI GUID="XxgpoDFd40+E7HdZpYpvbg==" type="fractals.ggspots.ggindicator" zpos="-9.12392" ypos="0.0411226" xpos="186.838" MapID="1177"/>
+   <POI GUID="jqgS4PSDQUy01FIyJvb93w==" type="fractals.fractalhitboxes.hitboxensolyss" zpos="-27.6505" ypos="44.7744" xpos="36.1567" MapID="1177"/>
+   <POI GUID="XDIlJyPcFEiiJvGrAA3sNg==" type="fractals.fractalhitboxes.hitboxsiax" zpos="-105.934" ypos="42.6535" xpos="72.4462" MapID="1177"/>
+   <POI GUID="L2XvVsvkhEOG/wzF3y0EQQ==" type="fractals.slayingsigil.dredgeslaying" zpos="183.152" ypos="81.5523" xpos="784.447" MapID="953"/>
+   <POI GUID="GBmZNhszJ0W98KGyUOT1PQ==" type="fractals.slayingsigil.elementalslaying" zpos="183.152" ypos="83.1395" xpos="784.447" MapID="953"/>
+   <POI GUID="nCsKzR2/8ke9Aap+i4t4TQ==" type="fractals.portalspots.portalend" zpos="192.593" ypos="84.5196" xpos="773.028" MapID="953"/>
+   <POI GUID="gpovH/kvc0aUT1dSNHXX6Q==" type="fractals.basicsigil.nightsigil" zpos="185.177" ypos="82.2025" xpos="784.27" MapID="953"/>
+   <POI GUID="wOpdU3Xe4kaJwKpN7czUQQ==" type="fractals.stealthspots.stealthmarker" zpos="124.817" ypos="58.6769" xpos="610.258" MapID="953"/>
+   <POI GUID="B0PAFZT/G0St2VwHEC8e0Q==" type="fractals.portalspots.portalend" zpos="138.254" ypos="58.0294" xpos="614.599" MapID="953"/>
+   <POI GUID="2vJRqN3CF0KcmXVcQtClSg==" type="fractals.portalspots.portalstart" zpos="131.096" ypos="60.2869" xpos="671.707" MapID="953"/>
+   <POI GUID="sU0C3OKvMEu2vDfwu23TJg==" type="fractals.ggspots.ggindicator" zpos="124.081" ypos="60.1192" xpos="677.321" MapID="953"/>
+   <POI GUID="CGkkd/Pa5kOL7S3tz/3Jug==" type="fractals.stealthspots.stealthmarker" zpos="216.477" ypos="46.4641" xpos="558.829" MapID="953"/>
+   <POI GUID="HIEcNkWjG0OaAt4dlAyHbg==" type="fractals.portalspots.portalstart" zpos="232.291" ypos="46.498" xpos="566.673" MapID="953"/>
+   <POI GUID="Ao13GLLKsEmChcyk8N9YfA==" type="fractals.stealthspots.stealthmarker" zpos="244.067" ypos="43.1247" xpos="607.651" MapID="953"/>
+   <POI GUID="MCJr2TZyhkmEFwfZT1a9Zg==" type="fractals.ggspots.ggindicator" zpos="334.841" ypos="19.2537" xpos="611.178" MapID="953"/>
+   <POI GUID="JZ8pfYGYmkml0YpZWLPclg==" type="fractals.boon_skillreminders.stability" zpos="358.282" ypos="19.2144" xpos="601.171" MapID="953"/>
+   <POI GUID="VYMq/lj/hUaZq74x2HytWw==" type="fractals.stealthspots.stealthmarker" zpos="380.614" ypos="19.4125" xpos="626.362" MapID="953"/>
+   <POI GUID="xqDL1k/XIEOD7v2Xo2DbMg==" type="fractals.stealthspots.stealthmarker" zpos="329.355" ypos="19.4125" xpos="626.66" MapID="953"/>
+   <POI GUID="M8P2qc4re0W0Owr9tGTLXQ==" type="fractals.stealthspots.stealthmarker" zpos="337.29" ypos="39.1981" xpos="688.822" MapID="953"/>
+   <POI GUID="3wRsW9kMeU6G22eA5JlOog==" type="fractals.extramechanics_directions.deepstonechests" zpos="63.0883" ypos="266.846" xpos="51.3379" MapID="1290"/>
+   <POI GUID="fPkQCVQ3zkCGB460nOS2wg==" type="fractals.extramechanics_directions.deepstonechests" zpos="201.738" ypos="119.692" xpos="-9.42615" MapID="1290"/>
+   <POI GUID="X5kKYmpSh0209DO7UVZcHw==" type="fractals.extramechanics_directions.deepstonechests" zpos="353.773" ypos="119.806" xpos="-8.8526" MapID="1290"/>
+   <POI GUID="ACEN1ewkf0Cs5vaQxSM3/g==" type="fractals.extramechanics_directions.deepstonechests" zpos="399.862" ypos="119.723" xpos="9.38371" MapID="1290"/>
+   <POI GUID="paTO+LLvUEqxHwoIjWU9bw==" type="fractals.leapandjumpspots.jumpmarker" zpos="100.721" ypos="98.2118" xpos="354.579" MapID="1205"/>
+   <POI GUID="H6oKxBQQkkmrM8sZYj/YHA==" type="fractals.leapandjumpspots.jumpmarker" zpos="104.526" ypos="100.108" xpos="350.001" MapID="1205"/>
+   <POI GUID="DuOLh4V6NEyiYvcTzc+xTw==" type="fractals.leapandjumpspots.jumpmarker" zpos="102.13" ypos="103.345" xpos="350.715" MapID="1205"/>
+   <POI GUID="WcfZ/vdZ+EKNbKhsaqbSQQ==" type="fractals.leapandjumpspots.jumpmarker" zpos="98.7333" ypos="107.135" xpos="348.511" MapID="1205"/>
+   <POI GUID="VOEHMZiSRU2TNmq0AFzhJg==" type="fractals.leapandjumpspots.jumpmarker" zpos="96.5278" ypos="109.897" xpos="341.155" MapID="1205"/>
+   <POI GUID="jpsvSX+bP0qa8hk0dT6K8w==" type="fractals.leapandjumpspots.farleapaim_white" zpos="70.2766" ypos="117.879" xpos="298.829" MapID="1205"/>
+   <POI GUID="xlbpWsakgU6IihBkmu4uLA==" type="fractals.boon_skillreminders.stability" zpos="108.379" ypos="505.841" xpos="92.5808" MapID="1164"/>
+   <POI GUID="xfLXPBZ3LUCtTSMyatFiVg==" type="fractals.boon_skillreminders.reflectmarker" zpos="13.1146" ypos="143.56" xpos="341.666" MapID="1205"/>
+   <POI GUID="+cNVE/sCO0W1OE/J9VyCqA==" type="fractals.extramechanics_directions.deepstonechests" zpos="-16.4213" ypos="266.833" xpos="-72.5049" MapID="1290"/>
+   <POI GUID="iKdh0enPlUeVc8dcUriLzw==" type="fractals.extramechanics_directions.deepstonechests" zpos="-182.661" ypos="270.97" xpos="20.4735" MapID="1290"/>
+   <POI GUID="MUX7QzKqrkeiIrJJrC6k0w==" type="fractals.extramechanics_directions.deepstonechests" zpos="62.4361" ypos="266.812" xpos="-10.333" MapID="1290"/>
+   <POI GUID="MAG6xPD4S0mWIG1qKigczA==" type="fractals.extramechanics_directions.deepstonechests" zpos="371.31" ypos="119.851" xpos="20.2746" MapID="1290"/>
+   <POI GUID="eA9B7ewKZEmmBjzD9H3isA==" type="fractals.extramechanics_directions.deepstonechests" zpos="-127.01" ypos="266.837" xpos="57.2657" MapID="1290"/>
+   <POI GUID="2g0x1WI/dkCrYID5Fx5LMw==" type="fractals.extramechanics_directions.deepstonechests" zpos="-113.624" ypos="266.854" xpos="116.981" MapID="1290"/>
+   <POI GUID="1Wzxo05weUq5NG6x0mXGiw==" type="fractals.extramechanics_directions.deepstonechests" zpos="-216.541" ypos="274.936" xpos="17.252" MapID="1290"/>
+   <POI GUID="7TigIQK5KUmfaEISoDkdJw==" type="fractals.leapandjumpspots.jumpmarker" zpos="-116.421" ypos="219.316" xpos="111.892" MapID="872"/>
+   <POI GUID="lNPy25bCz0qcvgZ6Kx9KfA==" type="fractals.leapandjumpspots.jumpmarker" zpos="-121.207" ypos="221.933" xpos="119.321" MapID="872"/>
+   <POI GUID="higX/7NTOkSiqm54vWE3xw==" type="fractals.leapandjumpspots.jumpmarker" zpos="-122.026" ypos="224.961" xpos="124.909" MapID="872"/>
+   <POI GUID="VGclVcFIHUaBncykhd13dQ==" type="fractals.leapandjumpspots.jumpmarker" zpos="-117.428" ypos="226.706" xpos="113.962" MapID="872"/>
+   <POI GUID="1xekEDej6kSmVdDdQ2R1SQ==" type="fractals.leapandjumpspots.jumpmarker" zpos="-122.335" ypos="230.148" xpos="119.908" MapID="872"/>
+   <POI GUID="CyYkjIWuAUuqickdocc98g==" type="fractals.leapandjumpspots.jumpmarker" zpos="-122.376" ypos="233.953" xpos="119.938" MapID="872"/>
+   <POI GUID="ps56vAmpdEehnLQSRGD29A==" type="fractals.leapandjumpspots.jumpmarker" zpos="-123.908" ypos="235.423" xpos="119.491" MapID="872"/>
+   <POI GUID="cptGyzWCDkSGWxK4g3sY8Q==" type="fractals.leapandjumpspots.jumpmarker" zpos="-123.583" ypos="238.68" xpos="118.326" MapID="872"/>
+   <POI GUID="aM5rtTqKFUK/WJ2+l+lX8Q==" type="fractals.leapandjumpspots.jumpmarker" zpos="-124.389" ypos="243.004" xpos="112.7" MapID="872"/>
+   <POI GUID="cQqCjsZZkU2zxb/AjtI7oA==" type="fractals.basicsigil.forcesigil" zpos="452.884" ypos="120.738" xpos="-556.879" MapID="1205"/>
+   <POI GUID="G5d2PnCbN0iizhfPsVYGYg==" type="fractals.basicsigil.impactsigil" zpos="451.083" ypos="120.551" xpos="-556.621" MapID="1205"/>
+   <POI GUID="DcOvLN0L+k6YIpCBsecfiw==" type="fractals.basicsigil.impactsigil" zpos="-26.5327" ypos="49.411" xpos="-79.1171" MapID="960"/>
+   <POI GUID="xi/2YJWegEeTFRz3OBbzbg==" type="fractals.day_night.daytime_face" zpos="-26.5327" ypos="49.411" xpos="-79.1171" MapID="960"/>
+   <POI GUID="xBChcGdIxk6lw2ldzOsFPw==" type="fractals.utility.slayingpotions.scarletsarmypotion" zpos="-28.1517" ypos="49.684" xpos="-79.368" MapID="960"/>
+   <POI GUID="vCZI2fCOUkKGvBDVljKCsw==" type="fractals.day_night.daytime_face" zpos="143.499" ypos="254.838" xpos="225.859" MapID="955"/>
+   <POI GUID="Cg38CP+5qk6FFktIVIt3oA==" type="fractals.extramechanics_directions.deepstonechests" zpos="115.216" ypos="266.947" xpos="19.6758" MapID="1290"/>
+   <POI GUID="R4KRwqj3aE+xwUS9PaS9OA==" type="fractals.basicsigil.nightsigil" zpos="9.58742" ypos="14.7864" xpos="-64.526" MapID="948"/>
+   <POI GUID="ZLEOEn52L0GciQEgEnQ9oQ==" type="fractals.basicsigil.forcesigil" zpos="9.20184" ypos="14.617" xpos="-62.7257" MapID="948"/>
+   <POI GUID="pDcdgUG5zUq77b8CSnLNDQ==" type="fractals.extramechanics_directions.deepstonechests" zpos="-126.948" ypos="266.834" xpos="239.223" MapID="1290"/>
+   <POI GUID="Y0dWSKkLQEmsPBVp0L+H8Q==" type="fractals.leapandjumpspots.farleapaim_white" zpos="-126.701" ypos="209.146" xpos="169.535" MapID="872"/>
+   <POI GUID="kolug0lhcU+65ir3dTQvvA==" type="fractals.extramechanics_directions.deepstonechests" zpos="-94.578" ypos="266.834" xpos="239.066" MapID="1290"/>
+   <POI GUID="mDELdh1V7UGV4gARA2wMWw==" type="fractals.ggspots.ggindicator" zpos="-15.1733" ypos="127.446" xpos="-53.7278" MapID="959"/>
+   <POI GUID="P1qQF51P/0WwMmg8tvtTxw==" type="fractals.ggspots.ggindicator" zpos="80.9603" ypos="507.005" xpos="181.352" MapID="1164"/>
+   <POI GUID="zHqTF93AOkyNkAokN8Ou7A==" type="fractals.utility.slayingpotions.nopotionmarker" zpos="8.87867" ypos="14.4018" xpos="-61.1393" MapID="948"/>
+   <POI GUID="R7P+BUja4kqeptVdzReigA==" type="fractals.boon_skillreminders.reflectmarker" zpos="3.97008" ypos="14.8132" xpos="-59.2094" MapID="948"/>
+</POIs>
+</OverlayData>

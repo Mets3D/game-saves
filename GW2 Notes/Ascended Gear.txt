@@ -1,0 +1,44 @@
+GW2 Ascended/Legendary Gear
+Remember to update this list when moving items between characters.
+
+Plans:
+	- Get infusions and enrichment and final berserker ring for Necro.
+	- WvW reward track enrichment seems best, if we're gonna play WvW a decent amount, since faster reward tracks means faster tomes of knowledge, so more spirit shards.
+	- Get an Ascended Staff. Bo is already there, or we can splurge for Zojja's Spire.
+
+Thief:
+	Weapons:
+		Wooden Sword (Legendary)
+Necro
+	Trinkets:
+		Amulet: Distinguished Circle of Logic (Berserker)
+		Ring: Ring of Red Death (Berserker)
+		Accessory: Althea's Ashes (Berserker)
+		Accessory: Magister's Field Journal (Berserker)
+		Back: Mawdrey (Berserker)
+Elementalist:
+	Trinkets:
+		Amulet: Prayer to Otter (Healing, Power, Toughness)
+		Ring: Solaria, Circle of the Sun (Celestial)
+		Ring: Ring of Red Death #2 (Berserker)
+		Ring: Druid's Circle (Healing, Power, Toughness)
+		Ring: Healing Signet (Healing, Power, Toughness)
+		Accessory: Kurzick Bauble (Healing, Power, Toughness)
+		Accessory: Preserved Red Iris Flower (Healing Power, Power, Toughness)
+Guardian:
+	Trinkets:
+		Ring: Healing Signet #2 (Healing Power, Power, Toughness)
+		Ring: Lost Seal of Usoku (PTV)
+		Ring: Royal Signed of Doric (PTV)
+Mesmer:
+	Trinkets:
+		Accessory: Golden Relic of Rin (PTV)
+		Accessory: Celestial Sigil (Celestial)
+		Accessory: Durmand's Pen (PTV)
+		Ring: Druid's Circle #2 (HPT)
+		Ring: Vassar's Band (Condition Damage, Touchness, Vitality, Precision)
+		Ring: Palawa Joko's Finger Cuff (Precision, Power, COndition Damage)
+		Ring: Ouroboros Loop (Condition Damage, Precision, Toughness)
+Ranger (Bank):
+	Druid's Circle #2 (Healing, Power, Toughness)
+	Palawa Joko's Finger Cuff #2 (Precision, Power, Condition Damage)

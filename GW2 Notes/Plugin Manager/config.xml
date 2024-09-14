@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<UserConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LoaderVersion>v0.3</LoaderVersion>
+  <BinFolder>bin64</BinFolder>
+  <LaunchGame>true</LaunchGame>
+  <GamePath>C:\Program Files\Guild Wars 2</GamePath>
+  <ExeName>Gw2-64.exe</ExeName>
+  <AddonsList Hash="f1395110af4a91a0fe352b944db75e78cc1eb6af">
+    <AddonData>
+      <Name>d3d9_wrapper</Name>
+      <Version>v1.2</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>arcdps</Name>
+      <Version>1b06dc1c546b0cdec84e94fa2bd9dd8c  d3d9.dll
+</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>arcdps_bhud</Name>
+      <Version>v0.3.1</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>arcdps_boontable</Name>
+      <Version>v2.0.0</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>arcdps_healing</Name>
+      <Version>v1.2</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>arcdps_killproof.me</Name>
+      <Version>v2.2.0</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>arcdps_mechanics</Name>
+      <Version>v2.0.0</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>arcdps_sct</Name>
+      <Version>1.3-RC4</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>d912pxy</Name>
+      <Version>v2.4.3</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>gw2radial</Name>
+      <Version>v1.2.4_al</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+    <AddonData>
+      <Name>SelectRenderer</Name>
+      <Version>v1.0</Version>
+      <Installed>true</Installed>
+      <Disabled>false</Disabled>
+    </AddonData>
+  </AddonsList>
+</UserConfig>
